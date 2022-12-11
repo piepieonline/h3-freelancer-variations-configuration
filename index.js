@@ -1,6 +1,6 @@
 (async () => {
-    const { missions } = await import("/missions.js");
-    const { guidToName, brickToName } = await import("/friendlyNames.js");
+    const { missions } = await import("./missions.js");
+    const { guidToName, brickToName } = await import("./friendlyNames.js");
 
     const selectedMissions = {};
 
