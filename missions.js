@@ -5,8 +5,8 @@ export const missions = {
         "assembly:/_pro/scenes/missions/rocky/override_poker.brick"
     ],
     "76fd7c40-83a0-48c9-be49-cef107583eae": [
-        "assembly:/_pro/scenes/missions/hokkaido/mission_mild_flu.brick",
         "assembly:/_pro/scenes/missions/hokkaido/mission_mild_mamushi.brick",
+        "assembly:/_pro/scenes/missions/hokkaido/mission_mild_flu.brick",
         "assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick",
         "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick"
     ],
@@ -28,6 +28,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/colombia/gamechanger_hippo_holly.brick"
     ],
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": [
+        "assembly:/_pro/scenes/missions/colorado_2/ets_night_mild.brick",
         "assembly:/_pro/scenes/missions/colorado_2/mission_mild_rabies.brick",
         "assembly:/_pro/scenes/missions/colorado_2/gamechanger_wild_card_daisy.brick",
         "assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick"
@@ -80,7 +81,7 @@ export const missions = {
     ],
     "65659b19-fb1a-4a14-b074-65227ffac128": [
         "assembly:/_pro/scenes/missions/hokkaido/mission_hot_flu.brick",
-        "assembly:/_pro/scenes/missions/hokkaido/mission_mild_mamushi.brick",
+        "assembly:/_pro/scenes/missions/hokkaido/hsf_night.brick",
         "assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick",
         "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick"
     ],
@@ -102,6 +103,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/colombia/gamechanger_hippo_holly.brick"
     ],
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": [
+        "assembly:/_pro/scenes/missions/colorado_2/ets_night.brick",
         "assembly:/_pro/scenes/missions/colorado_2/scenario_rabies_spades.brick",
         "assembly:/_pro/scenes/missions/colorado_2/gamechanger_wild_card_daisy.brick",
         "assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick"
