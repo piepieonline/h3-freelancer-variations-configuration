@@ -1,14 +1,21 @@
 (async () => {
     const { missions } = await import("./missions.js");
-    const { guidToName, brickToName } = await import("./friendlyNames.js");
+    const { guidToName, brickToName, displayOrder } = await import("./friendlyNames.js");
 
     const selectedMissions = {};
 
     const radioParent = document.getElementById('radio-parent');
     radioParent.innerHTML = '';
 
+    // Add any missing names to the friendly name list
+    Object.keys(missions).forEach(mission => {
+        if(!displayOrder.includes(mission)) {
+            displayOrder.push(mission);
+        }
+    })
+
     let htmlToAdd = `<div class="accordion" id="mission-accordion">`;
-    Object.keys(missions).forEach((mission, missionIndex) => {
+    displayOrder.forEach((mission, missionIndex) => {
         if(!guidToName[mission]) console.warn(`Missing mission title: ${mission}`);
 
         htmlToAdd += `<div id=${mission} class="accordion-item">

@@ -88,3 +88,50 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick": "ETs - Day",
     "assembly:/_pro/scenes/missions/theark/gamechanger_magpie_locked_jail_door.brick": "Vanilla"
 };
+
+export const displayOrder = [
+    "ebb8cdab-e521-4ba8-9288-d697b1aaaba7",
+    "c945b720-12c4-4f62-8026-4b4011a67dff",
+
+    "d4719601-83ce-4ca9-83cd-5164331d643f",
+    "47d10233-0008-4f34-abd2-a84ca2bb7530",
+
+    "d40076af-74d1-484e-8936-1367d5b107ce",
+    "2f562dba-2b14-42f3-b9fb-eb72e79450ba",
+
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a",
+    "4a95baa5-6ad6-43c8-ae3e-be8449d578ec",
+
+    "76fd7c40-83a0-48c9-be49-cef107583eae",
+    "65659b19-fb1a-4a14-b074-65227ffac128",
+
+    "4a34f12a-ab98-4dc5-9262-c600193b2629",
+    "ee67660e-4bd6-4743-9163-40331056f690",
+
+    "107100ca-f910-49a9-ac13-59d0bb5691a4",
+    "aab7a569-cead-40b8-81b5-c1605070b366",
+
+    "59c15d1e-c65e-4394-9906-46cdeb944c64",
+    "0d2a243a-f140-4be5-bfe7-e151878ec88e",
+
+    "dac2d6fd-4f25-4a63-b338-aef458c05a7f",
+    "6efd360a-5f78-44ac-9823-df077018c2b3",
+
+    "37be638c-4265-4622-9326-8835b8535180",
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39",
+
+    "f075fbc3-79ef-4e42-9326-9572f712a298",
+    "d2419fe4-ea72-4e61-b91b-bb39706f551d",
+
+    "d84fb174-2cbb-4337-8a66-f13f9fb170cd",
+    "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430",
+
+    "0ffe44ea-d241-49ec-835c-74d5714db343",
+    "c147e93f-2fa6-4618-a84e-d929c5d3d391",
+
+    "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731",
+    "5162c4a1-4b07-43b1-82ad-37c9e350764c",
+
+    "060a48f0-117b-4b22-a165-111fd4a5b745",
+    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99"
+];
