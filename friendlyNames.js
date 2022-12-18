@@ -14,6 +14,8 @@ export const guidToName = {
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": "Whittleton Creek",
     "4a34f12a-ab98-4dc5-9262-c600193b2629": "Miami",
     "37be638c-4265-4622-9326-8835b8535180": "Isle of Sgàil",
+    "ff0264f0-c9b8-476f-b8f2-a5762d077a09": "Marrakesh",
+    "89500fa3-2466-4c52-8b90-9890cc5039ee": "Mendoza",
     "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": "Ambrose Island (Showdown)",
     "65659b19-fb1a-4a14-b074-65227ffac128": "Hokkaido (Showdown)",
     "c945b720-12c4-4f62-8026-4b4011a67dff": "Paris (Showdown)",
@@ -28,7 +30,9 @@ export const guidToName = {
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": "Chongqing (Showdown)",
     "6efd360a-5f78-44ac-9823-df077018c2b3": "Whittleton Creek (Showdown)",
     "ee67660e-4bd6-4743-9163-40331056f690": "Miami (Showdown)",
-    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": "Isle of Sgàil (Showdown)"
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": "Isle of Sgàil (Showdown)",
+    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": "Marrakesh (Showdown)",
+    "8caa8f0e-ac39-4088-95c1-42075afe8213": "Mendoza (Showdown)"
 };
 
 export const brickToName = {
@@ -66,6 +70,9 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/coastaltown/tod_mild_sunset.brick": "ETs - Sunset",
     "assembly:/_pro/scenes/missions/coastaltown/tod_ebola_night.brick": "Night",
     "assembly:/_pro/scenes/missions/coastaltown/gamechanger_wild card_jasmine.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/coastaltown/mission_mild_author.brick": "Author",
+    "assembly:/_pro/scenes/missions/coastaltown/mission_mild_landslide.brick": "Landslide",
+    "assembly:/_pro/scenes/missions/coastaltown/tod_landslide_day.brick": "Landslide (Summer Day)",
     "assembly:/_pro/scenes/missions/ancestral/tod_midday.brick": "Day",
     "assembly:/_pro/scenes/missions/ancestral/override_bridge.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/ancestral/mission_mild_dgs.brick": "Garden Show (Day)",
@@ -77,16 +84,26 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/mumbai/tod_night.brick": "Night",
     "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick": "Day",
     "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/wet/tod_redsnapper_cloudy.brick": "The Rage - Cloudy Day",
-    "assembly:/_pro/scenes/missions/wet/tod_midday.brick": "Midday",
+    "assembly:/_pro/scenes/missions/wet/tod_mild_cloudy.brick": "Rainy Day - Facility Meltdown",
+    "assembly:/_pro/scenes/missions/wet/tod_mild_et_midday.brick": "The Rage - Midday",
     "assembly:/_pro/scenes/missions/wet/mission_mild_mahjong.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/wet/tod_cloudy.brick": "Rainy Day",
+    "assembly:/_pro/scenes/missions/wet/tod_et_midday.brick": "The Rage - Midday",
+    "assembly:/_pro/scenes/missions/wet/mission_hot_mahjong.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/skunk/tod_elusive_night.brick": "The Serial Killer - Night",
     "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/override_pinochle.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/theark/tod_day_ets_mild.brick": "ETs - Day",
     "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick": "ETs - Day",
-    "assembly:/_pro/scenes/missions/theark/gamechanger_magpie_locked_jail_door.brick": "Vanilla"
+    "assembly:/_pro/scenes/missions/theark/gamechanger_magpie_locked_jail_door.brick": "Vanilla",
+    "assembly:/_PRO/Scenes/missions/elegant/ets_midday_mild.brick": "ETs",
+    "assembly:/_pro/scenes/missions/elegant/override_sapo.brick": "Asado Lunch - Midday",
+    "assembly:/_PRO/Scenes/missions/elegant/ets_midday.brick": "ETs",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick": "A House Build On Sand",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_mild_mancala.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_python.brick": "A House Build On Sand",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_mancala.brick": "Vanilla"
 };
 
 export const displayOrder = [
@@ -95,6 +112,9 @@ export const displayOrder = [
 
     "d4719601-83ce-4ca9-83cd-5164331d643f",
     "47d10233-0008-4f34-abd2-a84ca2bb7530",
+
+    "ff0264f0-c9b8-476f-b8f2-a5762d077a09",
+    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026",
 
     "d40076af-74d1-484e-8936-1367d5b107ce",
     "2f562dba-2b14-42f3-b9fb-eb72e79450ba",
@@ -131,6 +151,9 @@ export const displayOrder = [
 
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731",
     "5162c4a1-4b07-43b1-82ad-37c9e350764c",
+
+    "89500fa3-2466-4c52-8b90-9890cc5039ee",
+    "8caa8f0e-ac39-4088-95c1-42075afe8213",
 
     "060a48f0-117b-4b22-a165-111fd4a5b745",
     "3e72588a-46ea-4cb8-a10f-e2242ca8cc99"

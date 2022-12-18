@@ -34,6 +34,9 @@ export const missions = {
         "assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick"
     ],
     "d4719601-83ce-4ca9-83cd-5164331d643f": [
+        "assembly:/_pro/scenes/missions/coastaltown/mission_mild_author.brick",
+        "assembly:/_pro/scenes/missions/coastaltown/mission_mild_landslide.brick",
+        "assembly:/_pro/scenes/missions/coastaltown/tod_landslide_day.brick",
         "assembly:/_pro/scenes/missions/coastaltown/tod_mild_sunset.brick",
         "assembly:/_pro/scenes/missions/coastaltown/tod_ebola_night.brick",
         "assembly:/_pro/scenes/missions/coastaltown/gamechanger_wild card_jasmine.brick"
@@ -58,8 +61,8 @@ export const missions = {
         "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick"
     ],
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": [
-        "assembly:/_pro/scenes/missions/wet/tod_redsnapper_cloudy.brick",
-        "assembly:/_pro/scenes/missions/wet/tod_midday.brick",
+        "assembly:/_pro/scenes/missions/wet/tod_mild_cloudy.brick",
+        "assembly:/_pro/scenes/missions/wet/tod_mild_et_midday.brick",
         "assembly:/_pro/scenes/missions/wet/mission_mild_mahjong.brick"
     ],
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": [
@@ -132,9 +135,9 @@ export const missions = {
         "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick"
     ],
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": [
-        "assembly:/_pro/scenes/missions/wet/tod_redsnapper_cloudy.brick",
-        "assembly:/_pro/scenes/missions/wet/tod_midday.brick",
-        "assembly:/_pro/scenes/missions/wet/mission_mild_mahjong.brick"
+        "assembly:/_pro/scenes/missions/wet/tod_cloudy.brick",
+        "assembly:/_pro/scenes/missions/wet/tod_et_midday.brick",
+        "assembly:/_pro/scenes/missions/wet/mission_hot_mahjong.brick"
     ],
     "6efd360a-5f78-44ac-9823-df077018c2b3": [
         "assembly:/_pro/scenes/missions/skunk/tod_elusive_night.brick",
@@ -147,5 +150,33 @@ export const missions = {
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": [
         "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick",
         "assembly:/_pro/scenes/missions/theark/gamechanger_magpie_locked_jail_door.brick"
+    ],
+    "ff0264f0-c9b8-476f-b8f2-a5762d077a09": [
+        "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick",
+        "assembly:/_pro/scenes/missions/marrakesh/mission_mild_mancala.brick"
+    ],
+    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": [
+        "assembly:/_pro/scenes/missions/marrakesh/mission_hot_python.brick",
+        "assembly:/_pro/scenes/missions/marrakesh/mission_hot_mancala.brick"
+    ],
+    "89500fa3-2466-4c52-8b90-9890cc5039ee": [
+        "assembly:/_PRO/Scenes/missions/elegant/ets_midday_mild.brick",
+        "assembly:/_pro/scenes/missions/elegant/override_sapo.brick"
+    ],
+    "8caa8f0e-ac39-4088-95c1-42075afe8213": [
+        "assembly:/_PRO/Scenes/missions/elegant/ets_midday.brick",
+        "assembly:/_pro/scenes/missions/elegant/override_sapo.brick"
     ]
+}
+
+export const missionstoclear = {
+    "d4719601-83ce-4ca9-83cd-5164331d643f": true,
+    "ff0264f0-c9b8-476f-b8f2-a5762d077a09": true,
+    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": true
+}
+
+export const hardbricks = {
+    "d4719601-83ce-4ca9-83cd-5164331d643f": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_beach_and_square_civilians_are_guards.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_lockalldoors_church.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_towncameras.brick"],
+    "ff0264f0-c9b8-476f-b8f2-a5762d077a09": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"],
+    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"]
 }

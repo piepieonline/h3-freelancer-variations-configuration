@@ -1,5 +1,5 @@
 (async () => {
-    const { missions } = await import("./missions.js");
+    const { missions, missionsToClear, hardBricks } = await import("./missions.js");
     const { guidToName, brickToName, displayOrder } = await import("./friendlyNames.js");
 
     const selectedMissions = {};
@@ -71,44 +71,25 @@
 
     window.generateOnline = () => {
         var missionJson = {
-            "mod": "KevinRudd.FreelancerVariations",
-            "forceEnable": true,
-            "forceDisable": false,
             "patches": []
         };
 
         Object.keys(selectedMissions).forEach(mission => {
             missionJson.patches.push({
-                "matchers": [
-                    {
-                        "target": "/Contract/Metadata/Id",
-                        "value": mission 
-                    },
-                    {
-                        "target": "/Contract/Metadata/Type",
-                        "value": "evergreen" 
-                    }
-                ],
-                "applyAtLeastOnePatch": true,
-                "randomPatchOptions": [
-                    [
-                        {
-                            "op": "add",
-                            "path": "/Contract/Data/RandomBricks/TimeOfDay",
-                            "value": []
-                        }
-                    ]
-                ]
+                "id": mission,
+                "bricks": [],
+                "hardBricks": hardBricks[mission] || [],
+                "clearDefaultBricks": missionsToClear[mission] === true
             });
             Object.keys(selectedMissions[mission]).forEach(brick => {
                 if(selectedMissions[mission][brick])
                 {
-                    missionJson.patches[missionJson.patches.length - 1].randomPatchOptions[0][0].value.push(brick);
+                    missionJson.patches[missionJson.patches.length - 1].bricks.push(brick);
                 }
             });
         });
 
-        downloadObjectAsJson(missionJson, 'KevinRudd.FreelancerVariations');
+        downloadObjectAsJson(missionJson, 'FreelancerVariations');
     };
     
     function downloadObjectAsJson(exportObj, exportName){
