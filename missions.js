@@ -112,9 +112,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick"
     ],
     "47d10233-0008-4f34-abd2-a84ca2bb7530": [
-        "assembly:/_pro/scenes/missions/coastaltown/tod_ets_sunset.brick",
-        "assembly:/_pro/scenes/missions/coastaltown/gamechanger_wild card_jasmine.brick",
-        "assembly:/_pro/scenes/missions/coastaltown/tod_ebola_night.brick"
+        "assembly:/_pro/scenes/Missions/CoastalTown/mission_hot_author.brick"
     ],
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": [
         "assembly:/_pro/scenes/missions/ancestral/tod_midday.brick",
@@ -171,12 +169,14 @@ export const missions = {
 
 export const missionstoclear = {
     "d4719601-83ce-4ca9-83cd-5164331d643f": true,
+    "47d10233-0008-4f34-abd2-a84ca2bb7530": true,
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": true,
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": true
 }
 
 export const hardbricks = {
     "d4719601-83ce-4ca9-83cd-5164331d643f": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_beach_and_square_civilians_are_guards.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_lockalldoors_church.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_towncameras.brick"],
+    "47d10233-0008-4f34-abd2-a84ca2bb7530": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_beach_and_square_civilians_are_guards.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_lockalldoors_church.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_towncameras.brick"],
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"],
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"]
 }

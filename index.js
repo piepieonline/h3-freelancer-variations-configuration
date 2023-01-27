@@ -1,5 +1,5 @@
 (async () => {
-    const { missions, missionsToClear, hardBricks } = await import("./missions.js");
+    const { missions, missionstoclear, hardbricks } = await import("./missions.js");
     const { guidToName, brickToName, displayOrder } = await import("./friendlyNames.js");
 
     const selectedMissions = {};
@@ -78,8 +78,8 @@
             missionJson.patches.push({
                 "id": mission,
                 "bricks": [],
-                "hardBricks": hardBricks[mission] || [],
-                "clearDefaultBricks": missionsToClear[mission] === true
+                "hardbricks": hardbricks[mission] || [],
+                "clearDefaultBricks": missionstoclear[mission] === true
             });
             Object.keys(selectedMissions[mission]).forEach(brick => {
                 if(selectedMissions[mission][brick])
