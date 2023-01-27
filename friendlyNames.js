@@ -101,7 +101,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/ancestral/hot_dgs_night.brick": "Garden Show (Night)",
     "assembly:/_pro/scenes/missions/ancestral/mild_vesper_night.brick": "The Procurers - Night",
     "assembly:/_pro/scenes/missions/ancestral/tod_vesper_night.brick": "The Procurers - Night",
-    "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "The Liability - Midday",
+    "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "Hungover Berlin - Midday",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": "Sunset",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_meyer.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/override_meyer.brick": "Vanilla",
