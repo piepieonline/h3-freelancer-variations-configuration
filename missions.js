@@ -21,11 +21,11 @@ export const missions = {
         "assembly:/_pro/scenes/missions/coastaltown/mission_mild_bingo.brick"
     ],
     "47d10233-0008-4f34-abd2-a84ca2bb7530": [
-        "assembly:/_pro/scenes/Missions/CoastalTown/mission_hot_author.brick",
-        "assembly:/_pro/scenes/Missions/CoastalTown/mission_hot_landslide.brick",
-        "assembly:/_pro/scenes/Missions/CoastalTown/mission_hot_bingo.brick",
-        "assembly:/_pro/scenes/Missions/CoastalTown/night_hot_bingo.brick",
-        "assembly:/_pro/scenes/Missions/CoastalTown/tod_ets_sunset.brick"
+        "assembly:/_pro/scenes/missions/coastaltown/mission_hot_author.brick",
+        "assembly:/_pro/scenes/missions/coastaltown/mission_hot_landslide.brick",
+        "assembly:/_pro/scenes/missions/coastaltown/mission_hot_bingo.brick",
+        "assembly:/_pro/scenes/missions/coastaltown/night_hot_bingo.brick",
+        "assembly:/_pro/scenes/missions/coastaltown/tod_ets_sunset.brick"
     ],
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": [
         "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick",
@@ -125,15 +125,15 @@ export const missions = {
     ],
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd": [
         "assembly:/_pro/scenes/missions/ancestral/mild_vesper_night.brick",
-        "assembly:/_pro/scenes/Missions/Ancestral/mild_bramble_midday.brick",
-        "assembly:/_pro/scenes/Missions/Ancestral/override_bridge.brick",
+        "assembly:/_pro/scenes/missions/ancestral/mild_bramble_midday.brick",
+        "assembly:/_pro/scenes/missions/ancestral/override_bridge.brick",
         "assembly:/_pro/scenes/missions/ancestral/mission_mild_dgs.brick"
     ],
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": [
-        "assembly:/_pro/scenes/Missions/Ancestral/mission_hot_dgs.brick",
+        "assembly:/_pro/scenes/missions/ancestral/mission_hot_dgs.brick",
         "assembly:/_pro/scenes/missions/ancestral/tod_vesper_night.brick",
-        "assembly:/_pro/scenes/Missions/Ancestral/mission_hot_bridge.brick",
-        "assembly:/_pro/scenes/Missions/Ancestral/hot_bramble_midday.brick"
+        "assembly:/_pro/scenes/missions/ancestral/mission_hot_bridge.brick",
+        "assembly:/_pro/scenes/missions/ancestral/hot_bramble_midday.brick"
     ],
     "0ffe44ea-d241-49ec-835c-74d5714db343": [
         "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick",
@@ -160,7 +160,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/wet/mission_hot_mahjong.brick"
     ],
     "89500fa3-2466-4c52-8b90-9890cc5039ee": [
-        "assembly:/_PRO/Scenes/missions/elegant/ets_midday_mild.brick",
+        "assembly:/_pro/Scenes/missions/elegant/ets_midday_mild.brick",
         "assembly:/_pro/scenes/missions/elegant/override_sapo.brick"
     ],
     "8caa8f0e-ac39-4088-95c1-42075afe8213": [
