@@ -110,9 +110,9 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/wet/tod_cloudy.brick": "Rainy Day",
     "assembly:/_pro/scenes/missions/wet/tod_et_midday.brick": "The Rage - Midday",
     "assembly:/_pro/scenes/missions/wet/mission_hot_mahjong.brick": "Vanilla",
-    "assembly:/_pro/Scenes/missions/elegant/ets_midday_mild.brick": "ETs - Midday",
+    "assembly:/_pro/scenes/missions/elegant/ets_midday_mild.brick": "ETs - Midday",
     "assembly:/_pro/scenes/missions/elegant/override_sapo.brick": "Vanilla",
-    "assembly:/_pro/Scenes/missions/elegant/ets_midday.brick": "ETs - Midday",
+    "assembly:/_pro/scenes/missions/elegant/ets_midday.brick": "ETs - Midday",
     "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "Day",
     "assembly:/_pro/scenes/missions/rocky/tod_sunset.brick": "Sunset",
     "assembly:/_pro/scenes/missions/rocky/override_poker.brick": "Vanilla"
