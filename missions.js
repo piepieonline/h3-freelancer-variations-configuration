@@ -138,7 +138,7 @@ export const missions = {
     "0ffe44ea-d241-49ec-835c-74d5714db343": [
         "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick",
         "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick",
-        "assembly:/_pro/scenes/missions/edgy/mission_fox/variant_easterL3.brick",
+        "assembly:/_pro/scenes/missions/edgy/mission_fox/variant_easterl3.brick",
         "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_meyer.brick"
     ],
     "c147e93f-2fa6-4618-a84e-d929c5d3d391": [
@@ -160,11 +160,11 @@ export const missions = {
         "assembly:/_pro/scenes/missions/wet/mission_hot_mahjong.brick"
     ],
     "89500fa3-2466-4c52-8b90-9890cc5039ee": [
-        "assembly:/_pro/Scenes/missions/elegant/ets_midday_mild.brick",
+        "assembly:/_pro/scenes/missions/elegant/ets_midday_mild.brick",
         "assembly:/_pro/scenes/missions/elegant/override_sapo.brick"
     ],
     "8caa8f0e-ac39-4088-95c1-42075afe8213": [
-        "assembly:/_PRO/Scenes/missions/elegant/ets_midday.brick",
+        "assembly:/_pro/scenes/missions/elegant/ets_midday.brick",
         "assembly:/_pro/scenes/missions/elegant/override_sapo.brick"
     ],
      "060a48f0-117b-4b22-a165-111fd4a5b745": [
