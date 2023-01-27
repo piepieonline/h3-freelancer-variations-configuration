@@ -100,7 +100,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "The Liability - Midday",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": "Sunset",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/override_meyer.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/edgy/mission_fox/variant_easterL3.brick": "Easter Event",
+    "assembly:/_pro/scenes/missions/edgy/mission_fox/variant_easterl3.brick": "Easter Event",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/variant_easter.brick": "Easter Event",
     "assembly:/_pro/scenes/missions/wet/tod_mild_cloudy.brick": "Rainy Day - Facility Meltdown",
     "assembly:/_pro/scenes/missions/wet/tod_mild_et_midday.brick": "The Rage - Midday",
