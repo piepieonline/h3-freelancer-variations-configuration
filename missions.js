@@ -127,10 +127,12 @@ export const missions = {
         "assembly:/_pro/scenes/missions/ancestral/mild_vesper_night.brick",
         "assembly:/_pro/scenes/missions/ancestral/mild_bramble_midday.brick",
         "assembly:/_pro/scenes/missions/ancestral/override_bridge.brick",
-        "assembly:/_pro/scenes/missions/ancestral/mission_mild_dgs.brick"
+        "assembly:/_pro/scenes/missions/ancestral/mission_mild_dgs.brick",
+        "assembly:/_pro/scenes/missions/ancestral/mild_dgs_night.brick"
     ],
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": [
-        "assembly:/_pro/scenes/missions/ancestral/mission_hot_dgs.brick",
+        "assembly:/_pro/scenes/missions/ancestral/mission_hot_dgs.brick",,
+        "assembly:/_pro/scenes/missions/ancestral/hot_dgs_night.brick"
         "assembly:/_pro/scenes/missions/ancestral/tod_vesper_night.brick",
         "assembly:/_pro/scenes/missions/ancestral/mission_hot_bridge.brick",
         "assembly:/_pro/scenes/missions/ancestral/hot_bramble_midday.brick"
