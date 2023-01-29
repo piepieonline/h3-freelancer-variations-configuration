@@ -25,7 +25,8 @@ export const missions = {
         "assembly:/_pro/scenes/missions/coastaltown/mission_hot_landslide.brick",
         "assembly:/_pro/scenes/missions/coastaltown/mission_hot_bingo.brick",
         "assembly:/_pro/scenes/missions/coastaltown/night_hot_bingo.brick",
-        "assembly:/_pro/scenes/missions/coastaltown/tod_ets_sunset.brick"
+        "assembly:/_pro/scenes/missions/coastaltown/tod_ets_sunset.brick",
+        "assembly:/_pro/scenes/missions/coastaltown/hot_landslide_day.brick"
     ],
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": [
         "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick",
