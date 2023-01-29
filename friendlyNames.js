@@ -52,7 +52,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/coastaltown/mission_hot_author.brick": "Author",
     "assembly:/_pro/scenes/missions/coastaltown/mission_hot_landslide.brick": "Landslide",
     "assembly:/_pro/scenes/missions/coastaltown/night_hot_bingo.brick": "Night",
-    "assembly:/_pro/scenes/missions/coastaltown/tod_landslide_day.brick": "Landslide (Summer Day)",,
+    "assembly:/_pro/scenes/missions/coastaltown/tod_landslide_day.brick": "Landslide (Summer Day)",
     "assembly:/_pro/scenes/missions/coastaltown/hot_landslide_day.brick": "Landslide (Summer Day)",
     "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick": "A House Build On Sand",
     "assembly:/_pro/scenes/missions/marrakesh/mission_mild_mancala.brick": "Vanilla",
