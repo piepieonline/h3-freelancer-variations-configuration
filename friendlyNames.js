@@ -59,7 +59,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_python.brick": "A House Build On Sand",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_mancala.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/bangkok/mission_mild_zika.brick": "The Source",
-    "assembly:/_pro/scenes/missions/bangkok/override_constantjeff.brick": "The Source",
+    "assembly:/_pro/scenes/missions/bangkok/mission_hot_source.brick": "The Source",
     "assembly:/_pro/scenes/missions/bangkok/gamechanger_wild_card_geranium.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/bangkok/tod_zika_night.brick": "Night",
     "assembly:/_pro/scenes/missions/bangkok/tod_warlord_midday.brick": "ETs - Midday",
