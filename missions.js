@@ -43,7 +43,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/bangkok/tod_warlord_midday.brick"
     ],
     "2f562dba-2b14-42f3-b9fb-eb72e79450ba": [
-        "assembly:/_pro/scenes/missions/bangkok/override_constantjeff.brick",
+        "assembly:/_pro/scenes/missions/bangkok/mission_hot_source.brick",
         "assembly:/_pro/scenes/missions/bangkok/gamechanger_wild_card_geranium.brick",
         "assembly:/_pro/scenes/missions/bangkok/tod_zika_night.brick",
         "assembly:/_pro/scenes/missions/bangkok/tod_warlord_hot_midday.brick"
