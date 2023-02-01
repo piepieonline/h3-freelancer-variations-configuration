@@ -74,11 +74,13 @@ export const missions = {
     ],
     "4a34f12a-ab98-4dc5-9262-c600193b2629": [
         "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick",
-        "assembly:/_pro/scenes/missions/miami/override_pinochle.brick"
+        "assembly:/_pro/scenes/missions/miami/override_pinochle.brick",
+        "assembly:/_pro/scenes/missions/miami/mild_sunset.brick"
     ],
     "ee67660e-4bd6-4743-9163-40331056f690": [
         "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick",
-        "assembly:/_pro/scenes/missions/miami/override_pinochle.brick"
+        "assembly:/_pro/scenes/missions/miami/override_pinochle.brick",
+        "assembly:/_pro/scenes/missions/miami/variant_sunset.brick"
     ],
     "107100ca-f910-49a9-ac13-59d0bb5691a4": [
         "assembly:/_pro/scenes/missions/colombia/mission_mild_anaconda.brick",
