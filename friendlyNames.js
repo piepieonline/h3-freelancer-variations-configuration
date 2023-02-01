@@ -78,6 +78,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/override_pinochle.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/miami/mild_sunset.brick": "The Undying - Sunset",
+    "assembly:/_pro/scenes/missions/miami/variant_sunset.brick": "The Undying - Sunset",
     "assembly:/_pro/scenes/missions/colombia/mission_mild_anaconda.brick": "Embrace of the Serpent",
     "assembly:/_pro/scenes/missions/colombia/mission_hot_anaconda.brick": "Embrace of the Serpent",
     "assembly:/_pro/scenes/missions/colombia/gamechanger_hippo_zinnia.brick": "Unveiling Ceremony",
