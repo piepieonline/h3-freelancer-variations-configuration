@@ -1,3 +1,5 @@
+export const currentFileVersion = 2;
+
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
     "76fd7c40-83a0-48c9-be49-cef107583eae": "Hokkaido",
@@ -124,6 +126,10 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "Day",
     "assembly:/_pro/scenes/missions/rocky/tod_sunset.brick": "Sunset",
     "assembly:/_pro/scenes/missions/rocky/override_poker.brick": "Vanilla"
+};
+
+export const brickToVersion = {
+    "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/mild_sunset.brick": 2
 };
 
 export const displayOrder = [
