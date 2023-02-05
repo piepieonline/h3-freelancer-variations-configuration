@@ -117,6 +117,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/wet/mission_mild_mahjong.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/wet/mission_mild_noodle.brick": "Chongqing Noodle Massacre (Deploy option or external mod required)",
     "assembly:/_pro/scenes/missions/wet/mild_noodle_day.brick": "Chongqing Noodle Massacre - Midday (Deploy option or external mod required)",
+    "assembly:/_pro/scenes/missions/wet/mission_hot_noodle.brick": "Chongqing Noodle Massacre (Deploy option or external mod required)",
+    "assembly:/_pro/scenes/missions/wet/hot_noodle_day.brick": "Chongqing Noodle Massacre - Midday (Deploy option or external mod required)",
     "assembly:/_pro/scenes/missions/wet/tod_cloudy.brick": "Rainy Day",
     "assembly:/_pro/scenes/missions/wet/tod_et_midday.brick": "The Rage - Midday",
     "assembly:/_pro/scenes/missions/wet/mission_hot_mahjong.brick": "Vanilla",
