@@ -162,7 +162,9 @@ export const missions = {
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": [
         "assembly:/_pro/scenes/missions/wet/tod_cloudy.brick",
         "assembly:/_pro/scenes/missions/wet/tod_et_midday.brick",
-        "assembly:/_pro/scenes/missions/wet/mission_hot_mahjong.brick"
+        "assembly:/_pro/scenes/missions/wet/mission_hot_mahjong.brick",
+        "assembly:/_pro/scenes/missions/wet/mission_hot_noodle.brick",
+        "assembly:/_pro/scenes/missions/wet/hot_noodle_day.brick"
     ],
     "89500fa3-2466-4c52-8b90-9890cc5039ee": [
         "assembly:/_pro/scenes/missions/elegant/ets_midday_mild.brick",
