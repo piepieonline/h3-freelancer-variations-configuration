@@ -1,4 +1,4 @@
-export const currentFileVersion = 2;
+export const currentFileVersion = 3;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -131,7 +131,11 @@ export const brickToName = {
 };
 
 export const brickToVersion = {
-    "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/mild_sunset.brick": 2
+    "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/mild_sunset.brick": 2,
+    "ee67660e-4bd6-4743-9163-40331056f690|assembly:/_pro/scenes/missions/miami/variant_sunset.brick": 2,
+    "5162c4a1-4b07-43b1-82ad-37c9e350764c|assembly:/_pro/scenes/missions/wet/hot_noodle_day.brick": 3,
+    "5162c4a1-4b07-43b1-82ad-37c9e350764c|assembly:/_pro/scenes/missions/wet/mission_hot_noodle.brick": 3
+    
 };
 
 export const displayOrder = [
