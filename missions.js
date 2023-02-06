@@ -17,7 +17,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/coastaltown/mission_mild_icon.brick",
         "assembly:/_pro/scenes/missions/coastaltown/tod_landslide_day.brick",
         "assembly:/_pro/scenes/missions/coastaltown/tod_mild_sunset.brick",
-        "assembly:/_pro/scenes/missions/coastaltown/tod_ebola_night.brick",
+        "assembly:/_pro/scenes/missions/coastaltown/tod_wot_night.brick",
         "assembly:/_pro/scenes/missions/coastaltown/mission_mild_bingo.brick"
     ],
     "47d10233-0008-4f34-abd2-a84ca2bb7530": [
@@ -43,7 +43,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/bangkok/tod_warlord_midday.brick"
     ],
     "2f562dba-2b14-42f3-b9fb-eb72e79450ba": [
-        "assembly:/_pro/scenes/missions/bangkok/mission_hot_source.brick",
+        "assembly:/_pro/scenes/missions/bangkok/mission_zika.brick",
         "assembly:/_pro/scenes/missions/bangkok/gamechanger_wild_card_geranium.brick",
         "assembly:/_pro/scenes/missions/bangkok/tod_zika_night.brick",
         "assembly:/_pro/scenes/missions/bangkok/tod_warlord_hot_midday.brick"
