@@ -192,7 +192,8 @@ export const missionstoclear = {
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": true,
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": true,
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": true,
-    "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": true
+    "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": true,
+    "5162c4a1-4b07-43b1-82ad-37c9e350764c": true
 }
 
 export const hardbricks = {
@@ -200,5 +201,6 @@ export const hardbricks = {
     "47d10233-0008-4f34-abd2-a84ca2bb7530": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_beach_and_square_civilians_are_guards.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_lockalldoors_church.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_towncameras.brick"],
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"],
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"],
-    "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"]
+    "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],
+    "5162c4a1-4b07-43b1-82ad-37c9e350764c": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"]
 }
