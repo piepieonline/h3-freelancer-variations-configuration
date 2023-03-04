@@ -148,7 +148,7 @@
         document.getElementById('preview-image-popover').style.display = 'block';
         document.getElementById('preview-image').src = 
             './missionImages/' + 
-            brickToImage[brick] || brick.replace(/\.brick/g, '').split('/').at(-1) +
+            (brickToImage[brick] || brick.replace(/\.brick/g, '').split('/').at(-1)) +
             '.png'
     }
 
