@@ -40,7 +40,7 @@
             }
 
             currentMissionHtmlToAdd +=
-                `<div id="collapse${missionIndex}" class="accordion-collapse collapse" aria-labelledby="heading${missionIndex}">
+                `<div id="collapse${missionIndex}" class="accordion-collapse collapse" aria-labelledby="heading${missionIndex}" onmouseenter="showPreviewImage('${brick}')" onmousemove="movePreviewImage(event)" onmouseleave="hidePreviewImage()">
                     <div class="accordion-body">
                         <div class="form-check form-switch">
                             <input class="form-check-input variant-checkbox mission-${mission}" type="checkbox" role="switch" id="${mission}|${brick}" ${isEnabled ? 'checked' : ''} onchange="modifySelection('${mission}', '${brick}')">
@@ -143,6 +143,20 @@
 
         fr.readAsText(e.files.item(0));
     };
+
+    window.showPreviewImage = (brick) => {
+        document.getElementById('preview-image-popover').style.display = 'block';
+        document.getElementById('preview-image').src = './missionImages/' + brick.replace(/\.brick/g, '').split('/').at(-1) + '.png'
+    }
+
+    window.movePreviewImage = (e) => {
+        document.getElementById('preview-image-popover').style.left = e.pageX + 'px';
+        document.getElementById('preview-image-popover').style.top = (e.pageY + 10) + 'px';
+    }
+
+    window.hidePreviewImage = () => {
+        document.getElementById('preview-image-popover').style.display = 'none';
+    }
 
     function downloadObjectAsJson(exportObj, exportName){
         var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(exportObj, null, 2));
