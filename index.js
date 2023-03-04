@@ -153,7 +153,7 @@
     }
 
     window.movePreviewImage = (e) => {
-        document.getElementById('preview-image-popover').style.left = e.pageX + 'px';
+        document.getElementById('preview-image-popover').style.left = Math.max(200, e.pageX) + 'px';
         document.getElementById('preview-image-popover').style.top = (e.pageY + 10) + 'px';
     }
 
