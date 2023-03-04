@@ -1,6 +1,6 @@
 (async () => {
     const { missions, missionstoclear, hardbricks } = await import("./missions.js");
-    const { currentFileVersion, guidToName, brickToName, brickToVersion, displayOrder } = await import("./friendlyNames.js");
+    const { currentFileVersion, guidToName, brickToName, brickToVersion, brickToImage, displayOrder } = await import("./friendlyNames.js");
 
     let configFileVersion = currentFileVersion;
     const selectedMissions = {};
@@ -146,7 +146,10 @@
 
     window.showPreviewImage = (brick) => {
         document.getElementById('preview-image-popover').style.display = 'block';
-        document.getElementById('preview-image').src = './missionImages/' + brick.replace(/\.brick/g, '').split('/').at(-1) + '.png'
+        document.getElementById('preview-image').src = 
+            './missionImages/' + 
+            brickToImage[brick] || brick.replace(/\.brick/g, '').split('/').at(-1) +
+            '.png'
     }
 
     window.movePreviewImage = (e) => {

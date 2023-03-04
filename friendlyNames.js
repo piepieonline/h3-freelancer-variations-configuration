@@ -138,6 +138,12 @@ export const brickToVersion = {
     
 };
 
+export const brickToImage = {
+    "assembly:/_pro/scenes/missions/paris/tod_midday.brick": "paris_tod_midday",
+    "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick": "mumbai_tod_midday",
+    "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "rocky_tod_midday",
+};
+
 export const displayOrder = [
     "ebb8cdab-e521-4ba8-9288-d697b1aaaba7",
     "c945b720-12c4-4f62-8026-4b4011a67dff",
