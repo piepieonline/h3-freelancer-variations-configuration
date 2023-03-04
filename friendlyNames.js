@@ -139,9 +139,15 @@ export const brickToVersion = {
 };
 
 export const brickToImage = {
-    "assembly:/_pro/scenes/missions/paris/tod_midday.brick": "paris_tod_midday",
-    "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick": "mumbai_tod_midday",
-    "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "rocky_tod_midday",
+    "assembly:/_pro/scenes/missions/paris/tod_midday.brick": "tod_middayparis",
+    "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick": "tod_middaymumbai",
+    "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "tod_middayambrose",
+    "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": "tod_sunsetberlin",
+    "assembly:/_pro/scenes/missions/rocky/tod_sunset.brick": "tod_sunsetambrose",
+    "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "tod_et_middayberlin",
+    "assembly:/_pro/scenes/missions/wet/tod_et_midday.brick": "tod_et_middaychong",
+    "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "tod_nighthaven",
+    "assembly:/_pro/scenes/missions/mumbai/tod_night.brick": "tod_nightmumbai"
 };
 
 export const displayOrder = [
