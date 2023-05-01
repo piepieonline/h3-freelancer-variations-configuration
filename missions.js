@@ -30,11 +30,13 @@ export const missions = {
     ],
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": [
         "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick",
-        "assembly:/_pro/scenes/missions/marrakesh/mission_mild_mancala.brick"
+        "assembly:/_pro/scenes/missions/marrakesh/mission_mild_mancala.brick",
+        "assembly:/_pro/scenes/missions/marrakesh/sunset_ets.brick"
     ],
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": [
         "assembly:/_pro/scenes/missions/marrakesh/mission_hot_python.brick",
-        "assembly:/_pro/scenes/missions/marrakesh/mission_hot_mancala.brick"
+        "assembly:/_pro/scenes/missions/marrakesh/mission_hot_mancala.brick",
+        "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick"
     ],
     "d40076af-74d1-484e-8936-1367d5b107ce": [
         "assembly:/_pro/scenes/missions/bangkok/mission_mild_zika.brick",
@@ -125,6 +127,14 @@ export const missions = {
     "d2419fe4-ea72-4e61-b91b-bb39706f551d": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick",
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/override_hilo.brick"
+    ],
+    "84727ec8-7f13-4c00-94c1-b5c60a8a181f": [
+        "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson.brick",
+        "assembly:/_pro/scenes/missions/golden/mission_gecko/mission_mild_chess.brick"
+    ],
+    "cd1c3479-e3e4-42c3-a9a4-bfedd2ea31f9": [
+        "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick",
+        "assembly:/_pro/scenes/missions/golden/mission_gecko/mission_hot_chess.brick"
     ],
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd": [
         "assembly:/_pro/scenes/missions/ancestral/mild_vesper_night.brick",
