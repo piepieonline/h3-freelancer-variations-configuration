@@ -8,6 +8,8 @@ export const guidToName = {
     "107100ca-f910-49a9-ac13-59d0bb5691a4": "Colombia",
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": "Colorado",
     "d4719601-83ce-4ca9-83cd-5164331d643f": "Sapienza",
+    "84727ec8-7f13-4c00-94c1-b5c60a8a181f": "Dubai",
+    "cd1c3479-e3e4-42c3-a9a4-bfedd2ea31f9": "Dubai (Showdown)",
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd": "Dartmoor",
     "0ffe44ea-d241-49ec-835c-74d5714db343": "Berlin",
     "f075fbc3-79ef-4e42-9326-9572f712a298": "Haven Island",
@@ -58,6 +60,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/coastaltown/hot_landslide_day.brick": "Landslide (Summer Day)",
     "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick": "A House Build On Sand",
     "assembly:/_pro/scenes/missions/marrakesh/mission_mild_mancala.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/marrakesh/sunset_ets.brick": "ETs (Sunset)",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": "ETs (Sunset)",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_python.brick": "A House Build On Sand",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_mancala.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/bangkok/mission_mild_zika.brick": "The Source",
@@ -96,6 +100,10 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/theark/gamechanger_magpie_locked_jail_door.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/override_hilo.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/golden/mission_gecko/mission_mild_chess.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/golden/mission_gecko/mission_hot_chess.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson.brick": "The Ascensionist (Midday)",
+    "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "The Ascensionist (Midday)",
     "assembly:/_pro/scenes/missions/ancestral/mild_bramble_midday.brick": "The Collector - Midday",
     "assembly:/_pro/scenes/missions/ancestral/hot_bramble_midday.brick": "The Collector - Midday",
     "assembly:/_pro/scenes/missions/ancestral/override_bridge.brick": "Vanilla",
@@ -186,6 +194,9 @@ export const displayOrder = [
 
     "f075fbc3-79ef-4e42-9326-9572f712a298",
     "d2419fe4-ea72-4e61-b91b-bb39706f551d",
+    
+    "84727ec8-7f13-4c00-94c1-b5c60a8a181f",
+    "cd1c3479-e3e4-42c3-a9a4-bfedd2ea31f9",
 
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd",
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430",
