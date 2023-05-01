@@ -159,7 +159,9 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "tod_et_middayberlin",
     "assembly:/_pro/scenes/missions/wet/tod_et_midday.brick": "tod_et_middaychong",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "tod_nighthaven",
-    "assembly:/_pro/scenes/missions/mumbai/tod_night.brick": "tod_nightmumbai"
+    "assembly:/_pro/scenes/missions/mumbai/tod_night.brick": "tod_nightmumbai",
+    "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": "sunset_ets"
 };
 
 export const displayOrder = [
