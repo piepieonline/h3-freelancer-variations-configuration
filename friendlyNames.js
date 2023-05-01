@@ -1,4 +1,4 @@
-export const currentFileVersion = 3;
+export const currentFileVersion = 4;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -142,7 +142,11 @@ export const brickToVersion = {
     "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/mild_sunset.brick": 2,
     "ee67660e-4bd6-4743-9163-40331056f690|assembly:/_pro/scenes/missions/miami/variant_sunset.brick": 2,
     "5162c4a1-4b07-43b1-82ad-37c9e350764c|assembly:/_pro/scenes/missions/wet/hot_noodle_day.brick": 3,
-    "5162c4a1-4b07-43b1-82ad-37c9e350764c|assembly:/_pro/scenes/missions/wet/mission_hot_noodle.brick": 3
+    "5162c4a1-4b07-43b1-82ad-37c9e350764c|assembly:/_pro/scenes/missions/wet/mission_hot_noodle.brick": 3,
+    "84727ec8-7f13-4c00-94c1-b5c60a8a181f|assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson.brick": 4,
+    "cd1c3479-e3e4-42c3-a9a4-bfedd2ea31f9|assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": 4,
+    "ff0264f0-c9b8-476f-b8f2-a5762d077a09|assembly:/_pro/scenes/missions/marrakesh/sunset_ets.brick": 4,
+    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026|assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": 4
     
 };
 
