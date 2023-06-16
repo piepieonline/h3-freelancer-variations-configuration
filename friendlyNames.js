@@ -1,4 +1,4 @@
-export const currentFileVersion = 4;
+export const currentFileVersion = 5;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -60,10 +60,12 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/coastaltown/hot_landslide_day.brick": "Landslide (Summer Day)",
     "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick": "A House Build On Sand",
     "assembly:/_pro/scenes/missions/marrakesh/mission_mild_mancala.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_mild_brothers.brick": "The Brothers + The Entertainer + Cheveyo Calibration (Midday)",
     "assembly:/_pro/scenes/missions/marrakesh/sunset_ets.brick": "ETs (Sunset)",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": "ETs (Sunset)",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_python.brick": "A House Build On Sand",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_mancala.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_brothers.brick": "The Brothers + The Entertainer + Cheveyo Calibration (Midday)",
     "assembly:/_pro/scenes/missions/bangkok/mission_mild_zika.brick": "The Source",
     "assembly:/_pro/scenes/missions/bangkok/mission_zika.brick": "The Source",
     "assembly:/_pro/scenes/missions/bangkok/gamechanger_wild_card_geranium.brick": "Vanilla",
@@ -94,6 +96,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/mumbai/tod_night.brick": "Night",
     "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick": "Day",
+    "assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick": "Illusions of Grandeur",
     "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/theark/tod_day_ets_mild.brick": "ETs - Day",
     "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick": "ETs - Day",
@@ -146,7 +149,10 @@ export const brickToVersion = {
     "84727ec8-7f13-4c00-94c1-b5c60a8a181f|assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson.brick": 4,
     "cd1c3479-e3e4-42c3-a9a4-bfedd2ea31f9|assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": 4,
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09|assembly:/_pro/scenes/missions/marrakesh/sunset_ets.brick": 4,
-    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026|assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": 4
+    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026|assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": 4,
+    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026|assembly:/_pro/scenes/missions/marrakesh/mission_hot_brothers.brick": 5,
+    "ff0264f0-c9b8-476f-b8f2-a5762d077a09|assembly:/_pro/scenes/missions/marrakesh/mission_mild_brothers.brick": 5,
+    "59c15d1e-c65e-4394-9906-46cdeb944c64|assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick": 5
     
 };
 
