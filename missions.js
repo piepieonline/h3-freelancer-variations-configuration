@@ -31,12 +31,14 @@ export const missions = {
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": [
         "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick",
         "assembly:/_pro/scenes/missions/marrakesh/mission_mild_mancala.brick",
-        "assembly:/_pro/scenes/missions/marrakesh/sunset_ets.brick"
+        "assembly:/_pro/scenes/missions/marrakesh/sunset_ets.brick",
+        "assembly:/_pro/scenes/missions/marrakesh/mission_mild_brothers.brick"
     ],
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": [
         "assembly:/_pro/scenes/missions/marrakesh/mission_hot_python.brick",
         "assembly:/_pro/scenes/missions/marrakesh/mission_hot_mancala.brick",
-        "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick"
+        "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick",
+        "assembly:/_pro/scenes/missions/marrakesh/mission_hot_brothers.brick"
     ],
     "d40076af-74d1-484e-8936-1367d5b107ce": [
         "assembly:/_pro/scenes/missions/bangkok/mission_mild_zika.brick",
@@ -95,6 +97,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/colombia/gamechanger_hippo_holly.brick"
     ],
     "59c15d1e-c65e-4394-9906-46cdeb944c64": [
+        "assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick",
         "assembly:/_pro/scenes/missions/mumbai/tod_night.brick",
         "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick",
         "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick"
