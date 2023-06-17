@@ -77,7 +77,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick"
     ],
     "4a34f12a-ab98-4dc5-9262-c600193b2629": [
-        "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick",
+        "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick",
         "assembly:/_pro/scenes/missions/miami/override_pinochle.brick",
         "assembly:/_pro/scenes/missions/miami/mild_sunset.brick"
     ],
