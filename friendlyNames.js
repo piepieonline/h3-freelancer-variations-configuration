@@ -1,4 +1,4 @@
-export const currentFileVersion = 5;
+export const currentFileVersion = 6;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -17,7 +17,7 @@ export const guidToName = {
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": "Chongqing",
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": "Whittleton Creek",
     "4a34f12a-ab98-4dc5-9262-c600193b2629": "Miami",
-    "37be638c-4265-4622-9326-8835b8535180": "Isle of Sgàil",
+    "37be638c-4265-4622-9326-8835b8535180": "Isle of Sgàil/Hantu Port",
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": "Marrakesh",
     "89500fa3-2466-4c52-8b90-9890cc5039ee": "Mendoza",
     "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": "Ambrose Island (Showdown)",
@@ -34,7 +34,7 @@ export const guidToName = {
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": "Chongqing (Showdown)",
     "6efd360a-5f78-44ac-9823-df077018c2b3": "Whittleton Creek (Showdown)",
     "ee67660e-4bd6-4743-9163-40331056f690": "Miami (Showdown)",
-    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": "Isle of Sgàil (Showdown)",
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": "Isle of Sgàil/Hantu Port (Showdown)",
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": "Marrakesh (Showdown)",
     "8caa8f0e-ac39-4088-95c1-42075afe8213": "Mendoza (Showdown)"
 };
@@ -98,9 +98,14 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick": "Day",
     "assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick": "Illusions of Grandeur",
     "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/theark/tod_day_ets_mild.brick": "ETs - Day",
-    "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick": "ETs - Day",
-    "assembly:/_pro/scenes/missions/theark/gamechanger_magpie_locked_jail_door.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick": "Hantu Port - Sunset",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": "Hantu Port - Sunset",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick": "Hantu Port - Rainy Night",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": "Hantu Port - Rainy Night",
+    "assembly:/_pro/scenes/missions/theark/tod_day_ets_mild.brick": "Sgail - ETs (Day)",
+    "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick": "Sgail - ETs (Day)",
+    "assembly:/_pro/scenes/missions/theark/mission_mild_whist.brick": "Sgail - Vanilla",
+    "assembly:/_pro/scenes/missions/theark/mission_hot_whist.brick": "Sgail - Vanilla",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/override_hilo.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/mission_mild_chess.brick": "Vanilla",
@@ -152,7 +157,11 @@ export const brickToVersion = {
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026|assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": 4,
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026|assembly:/_pro/scenes/missions/marrakesh/mission_hot_brothers.brick": 5,
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09|assembly:/_pro/scenes/missions/marrakesh/mission_mild_brothers.brick": 5,
-    "59c15d1e-c65e-4394-9906-46cdeb944c64|assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick": 5
+    "59c15d1e-c65e-4394-9906-46cdeb944c64|assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick": 5,
+    "37be638c-4265-4622-9326-8835b8535180|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick": 6,
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": 6,
+    "37be638c-4265-4622-9326-8835b8535180|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick": 6,
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": 6,
     
 };
 
