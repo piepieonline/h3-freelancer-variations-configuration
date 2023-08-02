@@ -225,3 +225,10 @@ export const hardbricks = {
     "37be638c-4265-4622-9326-8835b8535180": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"]
 }
+
+export const offbydefault = [
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick"
+]

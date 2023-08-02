@@ -1,5 +1,5 @@
 (async () => {
-    const { missions, missionstoclear, hardbricks } = await import("./missions.js");
+    const { missions, missionstoclear, hardbricks, offbydefault } = await import("./missions.js");
     const { currentFileVersion, guidToName, brickToName, brickToVersion, brickToImage, displayOrder } = await import("./friendlyNames.js");
 
     let configFileVersion = currentFileVersion;
@@ -29,7 +29,8 @@
         selectedMissions[mission] = {};
 
         missions[mission].forEach((brick, brickIndex) => {
-            const isEnabled = true;
+            const isEnabled = !offbydefault.includes(brick);
+
             if(!brickToName[brick]) console.warn(`Missing brick title: ${brick}`);
 
             const isNewBrick = brickToVersion[mission + '|' + brick] == currentFileVersion;
