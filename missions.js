@@ -116,12 +116,16 @@ export const missions = {
         "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
     ],
     "37be638c-4265-4622-9326-8835b8535180": [
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick",
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick",
         "assembly:/_pro/scenes/missions/theark/tod_day_ets_mild.brick",
-        "assembly:/_pro/scenes/missions/theark/gamechanger_magpie_locked_jail_door.brick"
+        "assembly:/_pro/scenes/missions/theark/mission_mild_whist.brick"
     ],
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": [
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick",
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick",
         "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick",
-        "assembly:/_pro/scenes/missions/theark/gamechanger_magpie_locked_jail_door.brick"
+        "assembly:/_pro/scenes/missions/theark/mission_hot_whist.brick"
     ],
     "f075fbc3-79ef-4e42-9326-9572f712a298": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick",
@@ -206,7 +210,9 @@ export const missionstoclear = {
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": true,
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": true,
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": true,
-    "5162c4a1-4b07-43b1-82ad-37c9e350764c": true
+    "5162c4a1-4b07-43b1-82ad-37c9e350764c": true,
+    "37be638c-4265-4622-9326-8835b8535180": true,
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": true
 }
 
 export const hardbricks = {
@@ -215,5 +221,7 @@ export const hardbricks = {
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"],
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"],
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],
-    "5162c4a1-4b07-43b1-82ad-37c9e350764c": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"]
+    "5162c4a1-4b07-43b1-82ad-37c9e350764c": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],
+    "37be638c-4265-4622-9326-8835b8535180": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"]
 }
