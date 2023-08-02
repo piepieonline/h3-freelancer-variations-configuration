@@ -85,6 +85,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick": "Day",
     "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick": "A Silver Tongue - Night",
+    "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/override_pinochle.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/miami/mild_sunset.brick": "The Undying - Sunset",
     "assembly:/_pro/scenes/missions/miami/variant_sunset.brick": "The Undying - Sunset",
