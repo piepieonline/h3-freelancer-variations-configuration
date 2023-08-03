@@ -22,7 +22,7 @@
         let currentMissionHtmlToAdd = `<div id=${mission} class="accordion-item">
                         <div class="accordion-header" id="heading${missionIndex}">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse${missionIndex}" aria-expanded="true" aria-controls="collapse${missionIndex}">
-                                ${guidToName[mission]}&nbsp;<span id="${mission}-selected-counter">${missions[mission].length}</span>/${missions[mission].length}&nbsp;&nbsp;&nbsp;<span style="color: grey">${mission}</span><span id="${mission}|new" class="badge rounded-pill bg-success new-hidden" style="margin-left: 5px">New</span>
+                                ${guidToName[mission]}&nbsp;<span id="${mission}-selected-counter">${missions[mission].filter(brick => !offbydefault.includes(brick)).length}</span>/${missions[mission].length}&nbsp;&nbsp;&nbsp;<span style="color: grey">${mission}</span><span id="${mission}|new" class="badge rounded-pill bg-success new-hidden" style="margin-left: 5px">New</span>
                             </button>
                         </div>`;
 
