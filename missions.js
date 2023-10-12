@@ -88,13 +88,13 @@ export const missions = {
     ],
     "107100ca-f910-49a9-ac13-59d0bb5691a4": [
         "assembly:/_pro/scenes/missions/colombia/mission_mild_anaconda.brick",
-        "assembly:/_pro/scenes/missions/colombia/gamechanger_hippo_zinnia.brick",
-        "assembly:/_pro/scenes/missions/colombia/gamechanger_hippo_holly.brick"
+        "assembly:/_pro/scenes/missions/colombia/night_mild_highball.brick",
+        "assembly:/_pro/scenes/missions/colombia/mission_mild_trompo.brick"
     ],
     "aab7a569-cead-40b8-81b5-c1605070b366": [
         "assembly:/_pro/scenes/missions/colombia/mission_hot_anaconda.brick",
-        "assembly:/_pro/scenes/missions/colombia/gamechanger_hippo_zinnia.brick",
-        "assembly:/_pro/scenes/missions/colombia/gamechanger_hippo_holly.brick"
+        "assembly:/_pro/scenes/missions/colombia/night_hot_highball.brick",
+        "assembly:/_pro/scenes/missions/colombia/mission_hot_trompo.brick"
     ],
     "59c15d1e-c65e-4394-9906-46cdeb944c64": [
         "assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick",
