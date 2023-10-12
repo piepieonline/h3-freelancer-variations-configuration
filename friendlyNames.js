@@ -1,4 +1,4 @@
-export const currentFileVersion = 6;
+export const currentFileVersion = 13;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -61,8 +61,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick": "A House Build On Sand",
     "assembly:/_pro/scenes/missions/marrakesh/mission_mild_mancala.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/marrakesh/mission_mild_brothers.brick": "The Brothers + The Entertainer + Cheveyo Calibration (Midday)",
-    "assembly:/_pro/scenes/missions/marrakesh/sunset_ets.brick": "ETs (Sunset)",
-    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": "ETs (Sunset)",
+    "assembly:/_pro/scenes/missions/marrakesh/sunset_ets.brick": "ETs - Sunset",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": "ETs - Sunset",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_python.brick": "A House Build On Sand",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_mancala.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_brothers.brick": "The Brothers + The Entertainer + Cheveyo Calibration (Midday)",
@@ -91,8 +91,10 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/miami/variant_sunset.brick": "The Undying - Sunset",
     "assembly:/_pro/scenes/missions/colombia/mission_mild_anaconda.brick": "Embrace of the Serpent",
     "assembly:/_pro/scenes/missions/colombia/mission_hot_anaconda.brick": "Embrace of the Serpent",
-    "assembly:/_pro/scenes/missions/colombia/gamechanger_hippo_zinnia.brick": "Unveiling Ceremony",
-    "assembly:/_pro/scenes/missions/colombia/gamechanger_hippo_holly.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/colombia/night_mild_highball.brick": "The Revolutionary - Night",
+    "assembly:/_pro/scenes/missions/colombia/night_hot_highball.brick": "The Revolutionary - Night",
+    "assembly:/_pro/scenes/missions/colombia/mission_mild_trompo.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/colombia/mission_hot_trompo.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/skunk/tod_elusive_night.brick": "The Serial Killer - Night",
     "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/mumbai/tod_night.brick": "Night",
@@ -163,6 +165,8 @@ export const brickToVersion = {
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": 6,
     "37be638c-4265-4622-9326-8835b8535180|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick": 6,
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": 6,
+    "107100ca-f910-49a9-ac13-59d0bb5691a4|assembly:/_pro/scenes/missions/colombia/night_mild_highball.brick": 13,
+    "aab7a569-cead-40b8-81b5-c1605070b366|assembly:/_pro/scenes/missions/colombia/night_hot_highball.brick": 13,
     
 };
 
