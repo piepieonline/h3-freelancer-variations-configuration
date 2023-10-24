@@ -1,4 +1,4 @@
-export const currentFileVersion = 13;
+export const currentFileVersion = 14;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -95,7 +95,10 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/colombia/night_hot_highball.brick": "The Revolutionary - Night",
     "assembly:/_pro/scenes/missions/colombia/mission_mild_trompo.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/colombia/mission_hot_trompo.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/skunk/tod_elusive_night.brick": "The Serial Killer - Night",
+    "assembly:/_pro/scenes/missions/skunk/ass_night.brick": "A Bitter Pill - Night",
+    "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick": "A Bitter Pill - Night",
+    "assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick": "The Serial Killer - Sunset",
+    "assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick": "The Serial Killer - Sunset",
     "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/mumbai/tod_night.brick": "Night",
     "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick": "Day",
@@ -167,6 +170,10 @@ export const brickToVersion = {
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": 6,
     "107100ca-f910-49a9-ac13-59d0bb5691a4|assembly:/_pro/scenes/missions/colombia/night_mild_highball.brick": 13,
     "aab7a569-cead-40b8-81b5-c1605070b366|assembly:/_pro/scenes/missions/colombia/night_hot_highball.brick": 13,
+    "dac2d6fd-4f25-4a63-b338-aef458c05a7f|assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick": 14,
+    "6efd360a-5f78-44ac-9823-df077018c2b3|assembly:/_pro/scenes/missions/skunk/ass_night.brick": 14,
+    "dac2d6fd-4f25-4a63-b338-aef458c05a7f|assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick": 14,
+    "6efd360a-5f78-44ac-9823-df077018c2b3|assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick": 14,
     
 };
 
