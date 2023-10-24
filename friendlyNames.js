@@ -40,7 +40,7 @@ export const guidToName = {
 };
 
 export const brickToName = {
-    "assembly:/_pro/scenes/missions/paris/location_parisnoel.brick": "Christmas",
+    "assembly:/_pro/scenes/missions/paris/hoarders_variant.brick": "Christmas",
     "assembly:/_pro/scenes/missions/paris/gamechangers_wild_card_juniper.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/paris/tod_midday.brick": "Midday",
     "assembly:/_pro/scenes/missions/paris/tod_ets_mild.brick": "ETs (Blue Night)",
