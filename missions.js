@@ -1,12 +1,12 @@
 export const missions = {
     "ebb8cdab-e521-4ba8-9288-d697b1aaaba7": [
-        "assembly:/_pro/scenes/missions/paris/location_parisnoel.brick",
+        "assembly:/_pro/scenes/missions/paris/hoarders_variant.brick",
         "assembly:/_pro/scenes/missions/paris/gamechangers_wild_card_juniper.brick",
         "assembly:/_pro/scenes/missions/paris/tod_midday.brick",
         "assembly:/_pro/scenes/missions/paris/tod_ets_mild.brick"
     ],
     "c945b720-12c4-4f62-8026-4b4011a67dff": [
-        "assembly:/_pro/scenes/missions/paris/location_parisnoel.brick",
+        "assembly:/_pro/scenes/missions/paris/hoarders_variant.brick",
         "assembly:/_pro/scenes/missions/paris/gamechangers_wild_card_juniper.brick",
         "assembly:/_pro/scenes/missions/paris/tod_midday.brick",
         "assembly:/_pro/scenes/missions/paris/tod_ets.brick"
@@ -108,11 +108,13 @@ export const missions = {
         "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick"
     ],
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": [
-        "assembly:/_pro/scenes/missions/skunk/tod_elusive_night.brick",
+        "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick",
+        "assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick",
         "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
     ],
     "6efd360a-5f78-44ac-9823-df077018c2b3": [
-        "assembly:/_pro/scenes/missions/skunk/tod_elusive_night.brick",
+        "assembly:/_pro/scenes/missions/skunk/ass_night.brick",
+        "assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick",
         "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
     ],
     "37be638c-4265-4622-9326-8835b8535180": [
