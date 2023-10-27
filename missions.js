@@ -129,6 +129,14 @@ export const missions = {
         "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick",
         "assembly:/_pro/scenes/missions/theark/mission_hot_whist.brick"
     ],
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7": [
+        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/override_blackjack.brick",
+        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick"
+    ],
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": [
+        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/override_blackjack.brick",
+        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick"
+    ],
     "f075fbc3-79ef-4e42-9326-9572f712a298": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick",
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/override_hilo.brick"
@@ -161,7 +169,7 @@ export const missions = {
     ],
     "0ffe44ea-d241-49ec-835c-74d5714db343": [
         "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick",
-        "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick",
+        "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick",
         "assembly:/_pro/scenes/missions/edgy/mission_fox/variant_easterl3.brick",
         "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_meyer.brick"
     ],
