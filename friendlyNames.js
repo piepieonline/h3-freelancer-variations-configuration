@@ -1,4 +1,4 @@
-export const currentFileVersion = 14;
+export const currentFileVersion = 14.1;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -12,6 +12,7 @@ export const guidToName = {
     "cd1c3479-e3e4-42c3-a9a4-bfedd2ea31f9": "Dubai (Showdown)",
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd": "Dartmoor",
     "0ffe44ea-d241-49ec-835c-74d5714db343": "Berlin",
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7": "New York",
     "f075fbc3-79ef-4e42-9326-9572f712a298": "Haven Island",
     "59c15d1e-c65e-4394-9906-46cdeb944c64": "Mumbai",
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": "Chongqing",
@@ -29,6 +30,7 @@ export const guidToName = {
     "47d10233-0008-4f34-abd2-a84ca2bb7530": "Sapienza (Showdown)",
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": "Dartmoor (Showdown)",
     "c147e93f-2fa6-4618-a84e-d929c5d3d391": "Berlin (Showdown)",
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": "New York (Showdown)",
     "d2419fe4-ea72-4e61-b91b-bb39706f551d": "Haven Island (Showdown)",
     "0d2a243a-f140-4be5-bfe7-e151878ec88e": "Mumbai (Showdown)",
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": "Chongqing (Showdown)",
@@ -112,6 +114,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick": "Sgail - ETs (Day)",
     "assembly:/_pro/scenes/missions/theark/mission_mild_whist.brick": "Sgail - Vanilla",
     "assembly:/_pro/scenes/missions/theark/mission_hot_whist.brick": "Sgail - Vanilla",
+    "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": "Stock Crash - Sunny Midday",
+    "assembly:/_pro/scenes/missions/greedy/mission_raccoon/override_blackjack.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/override_hilo.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/mission_mild_chess.brick": "Vanilla",
@@ -129,7 +133,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/ancestral/mild_vesper_night.brick": "The Procurers - Night",
     "assembly:/_pro/scenes/missions/ancestral/tod_vesper_night.brick": "The Procurers - Night",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "The Liability - Midday",
-    "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": "Sunset",
+    "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": "The Drop - Sunset",
+    "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": "The Drop - Sunset",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_meyer.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/override_meyer.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/variant_easterl3.brick": "Easter Event",
@@ -174,6 +179,10 @@ export const brickToVersion = {
     "6efd360a-5f78-44ac-9823-df077018c2b3|assembly:/_pro/scenes/missions/skunk/ass_night.brick": 14,
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f|assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick": 14,
     "6efd360a-5f78-44ac-9823-df077018c2b3|assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick": 14,
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": 14.1,
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4|assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": 14.1,,
+    "0ffe44ea-d241-49ec-835c-74d5714db343|assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": 14.1,
+    "c147e93f-2fa6-4618-a84e-d929c5d3d391|assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": 14.1,
     
 };
 
@@ -224,6 +233,9 @@ export const displayOrder = [
 
     "37be638c-4265-4622-9326-8835b8535180",
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39",
+
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7",
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4",
 
     "f075fbc3-79ef-4e42-9326-9572f712a298",
     "d2419fe4-ea72-4e61-b91b-bb39706f551d",
