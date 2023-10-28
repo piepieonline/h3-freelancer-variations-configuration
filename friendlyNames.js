@@ -180,7 +180,7 @@ export const brickToVersion = {
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f|assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick": 14,
     "6efd360a-5f78-44ac-9823-df077018c2b3|assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick": 14,
     "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": 14.1,
-    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4|assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": 14.1,,
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4|assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": 14.1,
     "0ffe44ea-d241-49ec-835c-74d5714db343|assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": 14.1,
     "c147e93f-2fa6-4618-a84e-d929c5d3d391|assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": 14.1,
     
@@ -198,12 +198,12 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": "mission_mild_hantu",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": "mission_mild_hantu_night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "tod_nighthaven",
-    "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson"
+    "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": "tod_sunsetberlin",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "tod_et_middayberlin",
     "assembly:/_pro/scenes/missions/wet/tod_et_midday.brick": "tod_et_middaychong",
     "assembly:/_pro/scenes/missions/rocky/tod_sunset.brick": "tod_sunsetambrose",
-    "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "tod_middayambrose",
+    "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "tod_middayambrose"
 };
 
 export const displayOrder = [
