@@ -208,6 +208,7 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/wet/hot_noodle_day.brick": "mild_noodle_day",
     "assembly:/_pro/scenes/missions/wet/tod_et_midday.brick": "tod_et_middaychong",
     "assembly:/_pro/scenes/missions/wet/tod_mild_et_midday.brick": "tod_et_middaychong",
+    "assembly:/_pro/Scenes/missions/elegant/ets_midday_mild.brick": "ets_midday",
     "assembly:/_pro/scenes/missions/rocky/tod_sunset.brick": "tod_sunsetambrose",
     "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "tod_middayambrose"
 };
