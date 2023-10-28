@@ -188,16 +188,22 @@ export const brickToVersion = {
 
 export const brickToImage = {
     "assembly:/_pro/scenes/missions/paris/tod_midday.brick": "tod_middayparis",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": "sunset_ets",
+    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_brothers.brick": "mission_mild_brothers",
+    "assembly:/_pro/scenes/missions/colombia/night_hot_highball.brick": "night_mild_highball",
     "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick": "tod_middaymumbai",
-    "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "tod_middayambrose",
+    "assembly:/_pro/scenes/missions/mumbai/tod_night.brick": "tod_nightmumbai",
+    "assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick": "elusive_sunset",
+    "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick": "ass_night",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": "mission_mild_hantu",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": "mission_mild_hantu_night",
+    "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "tod_nighthaven",
+    "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson"
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": "tod_sunsetberlin",
-    "assembly:/_pro/scenes/missions/rocky/tod_sunset.brick": "tod_sunsetambrose",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "tod_et_middayberlin",
     "assembly:/_pro/scenes/missions/wet/tod_et_midday.brick": "tod_et_middaychong",
-    "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "tod_nighthaven",
-    "assembly:/_pro/scenes/missions/mumbai/tod_night.brick": "tod_nightmumbai",
-    "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson",
-    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": "sunset_ets"
+    "assembly:/_pro/scenes/missions/rocky/tod_sunset.brick": "tod_sunsetambrose",
+    "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "tod_middayambrose",
 };
 
 export const displayOrder = [
