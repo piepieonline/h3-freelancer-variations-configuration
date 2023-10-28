@@ -182,7 +182,7 @@ export const brickToVersion = {
     "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": 14.1,
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4|assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": 14.1,
     "0ffe44ea-d241-49ec-835c-74d5714db343|assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": 14.1,
-    "c147e93f-2fa6-4618-a84e-d929c5d3d391|assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": 14.1,
+    "c147e93f-2fa6-4618-a84e-d929c5d3d391|assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": 14.1
     
 };
 
