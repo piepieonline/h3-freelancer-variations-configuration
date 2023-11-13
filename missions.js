@@ -138,12 +138,13 @@ export const missions = {
         "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick"
     ],
     "f075fbc3-79ef-4e42-9326-9572f712a298": [
-        "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick",
-        "assembly:/_pro/scenes/missions/opulent/mission_stingray/override_hilo.brick"
+        "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick",
+        "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick",
+        "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick"
     ],
     "d2419fe4-ea72-4e61-b91b-bb39706f551d": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick",
-        "assembly:/_pro/scenes/missions/opulent/mission_stingray/override_hilo.brick"
+        "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_hot_hilo.brick"
     ],
     "84727ec8-7f13-4c00-94c1-b5c60a8a181f": [
         "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson.brick",
@@ -222,7 +223,8 @@ export const missionstoclear = {
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": true,
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": true,
     "37be638c-4265-4622-9326-8835b8535180": true,
-    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": true
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": true,
+    "f075fbc3-79ef-4e42-9326-9572f712a298": true
 }
 
 export const hardbricks = {
@@ -233,7 +235,8 @@ export const hardbricks = {
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],
     "37be638c-4265-4622-9326-8835b8535180": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
-    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"]
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
+    "f075fbc3-79ef-4e42-9326-9572f712a298": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"]
 }
 
 export const offbydefault = [
