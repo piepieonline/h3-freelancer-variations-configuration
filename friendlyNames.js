@@ -1,4 +1,4 @@
-export const currentFileVersion = 15;
+export const currentFileVersion = 16;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -13,10 +13,11 @@ export const guidToName = {
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd": "Dartmoor",
     "0ffe44ea-d241-49ec-835c-74d5714db343": "Berlin",
     "be4714d4-c7a5-4c21-a63a-89c5643965e7": "New York",
-    "f075fbc3-79ef-4e42-9326-9572f712a298": "Haven Island/Hawke's Bay",
+    "f075fbc3-79ef-4e42-9326-9572f712a298": "Haven Island",
     "59c15d1e-c65e-4394-9906-46cdeb944c64": "Mumbai",
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": "Chongqing",
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": "Whittleton Creek",
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": "Hawke's Bay/Hantu Port",
     "4a34f12a-ab98-4dc5-9262-c600193b2629": "Miami",
     "37be638c-4265-4622-9326-8835b8535180": "Isle of Sgàil/Hantu Port",
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": "Marrakesh",
@@ -35,6 +36,7 @@ export const guidToName = {
     "0d2a243a-f140-4be5-bfe7-e151878ec88e": "Mumbai (Showdown)",
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": "Chongqing (Showdown)",
     "6efd360a-5f78-44ac-9823-df077018c2b3": "Whittleton Creek (Showdown)",
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": "Hawke's Bay/Hantu Port (Showdown)",
     "ee67660e-4bd6-4743-9163-40331056f690": "Miami (Showdown)",
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": "Isle of Sgàil/Hantu Port (Showdown)",
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": "Marrakesh (Showdown)",
@@ -86,6 +88,19 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/hokkaido/hsf_night.brick": "Snow Festival + ETs (Night)",
     "assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick": "Day",
     "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick": "Nightcall - Night",
+    "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick": "The Politician - Night",
+    "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunrise.brick": "The Politician - Sunrise",
+    "assembly:/_pro/scenes/missions/sheep/mild_adonis_midday.brick": "The Politician - Midday",
+    "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunset.brick": "The Politician - Sunset",
+    "assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick": "The Politician - Night",
+    "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick": "The Politician - Sunrise",
+    "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick": "The Politician - Midday",
+    "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick": "The Politician - Sunset",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_hex.brick": "Hantu Port - Sunset [REQUIRES EXTERNAL MOD]",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick": "Hantu Port - Sunset [REQUIRES EXTERNAL MOD]",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick": "Hantu Port - Rainy Night [REQUIRES EXTERNAL MOD]",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick": "Hantu Port - Rainy Night [REQUIRES EXTERNAL MOD]",
     "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/override_pinochle.brick": "Vanilla",
@@ -120,7 +135,6 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_hot_hilo.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick": "Hawke's Bay - The Politician",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/mission_mild_chess.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/mission_hot_chess.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson.brick": "The Ascensionist (Midday)",
@@ -186,7 +200,19 @@ export const brickToVersion = {
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4|assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": 14.1,
     "0ffe44ea-d241-49ec-835c-74d5714db343|assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": 14.1,
     "c147e93f-2fa6-4618-a84e-d929c5d3d391|assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": 14.1,
-    "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/sheep/mild_adonis.brick": 15
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/sheep/mild_adonis.brick": 16,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/sheep/mild_adonis_sunrise.brick": 16,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/sheep/mild_adonis_midday.brick": 16,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/sheep/mild_adonis_sunset.brick": 16,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/sheep/mild_sheep.brick": 16,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_hex.brick": 16,
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick": 16,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick": 16,
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick": 16,
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick": 16,
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick": 16,
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick": 16,
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick": 16
     
 };
 
@@ -203,6 +229,10 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick": "ass_night",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": "mission_mild_hantu",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": "mission_mild_hantu_night",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": "mission_mild_hantu_hex",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": "mission_mild_hantu_night_hex",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": "mission_hot_hantu_hex",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": "mission_hot_hantu_night_hex",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "tod_nighthaven",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "tod_nighthaven",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson",
@@ -237,6 +267,9 @@ export const displayOrder = [
     "76fd7c40-83a0-48c9-be49-cef107583eae",
     "65659b19-fb1a-4a14-b074-65227ffac128",
 
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5",
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd",
+    
     "4a34f12a-ab98-4dc5-9262-c600193b2629",
     "ee67660e-4bd6-4743-9163-40331056f690",
 
