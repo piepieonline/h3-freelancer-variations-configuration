@@ -76,6 +76,23 @@ export const missions = {
         "assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick",
         "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick"
     ],
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": [
+        "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick",
+        "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunrise.brick",
+        "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunset.brick",
+        "assembly:/_pro/scenes/missions/sheep/mild_adonis_midday.brick",
+        "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick",
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_hex.brick",
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick"
+    ],
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": [
+        "assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick",
+        "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick",
+        "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick",
+        "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick",
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick",
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick"
+    ],
     "4a34f12a-ab98-4dc5-9262-c600193b2629": [
         "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick",
         "assembly:/_pro/scenes/missions/miami/override_pinochle.brick",
@@ -224,7 +241,10 @@ export const missionstoclear = {
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": true,
     "37be638c-4265-4622-9326-8835b8535180": true,
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": true,
-    "f075fbc3-79ef-4e42-9326-9572f712a298": true
+    "f075fbc3-79ef-4e42-9326-9572f712a298": true,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": true,
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": true
+    
 }
 
 export const hardbricks = {
@@ -236,12 +256,18 @@ export const hardbricks = {
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],
     "37be638c-4265-4622-9326-8835b8535180": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
-    "f075fbc3-79ef-4e42-9326-9572f712a298": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"]
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"]
 }
 
 export const offbydefault = [
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick"
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick",
+    "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_hex.brick",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick"
 ]
