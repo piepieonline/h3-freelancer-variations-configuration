@@ -156,8 +156,7 @@ export const missions = {
     ],
     "f075fbc3-79ef-4e42-9326-9572f712a298": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick",
-        "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick",
-        "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick"
+        "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick"
     ],
     "d2419fe4-ea72-4e61-b91b-bb39706f551d": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick",
@@ -241,7 +240,6 @@ export const missionstoclear = {
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": true,
     "37be638c-4265-4622-9326-8835b8535180": true,
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": true,
-    "f075fbc3-79ef-4e42-9326-9572f712a298": true,
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": true,
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": true
     
