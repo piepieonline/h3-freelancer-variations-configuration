@@ -1,4 +1,4 @@
-export const currentFileVersion = 16;
+export const currentFileVersion = 16.4;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -149,7 +149,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/ancestral/hot_dgs_night.brick": "Garden Show (Night)",
     "assembly:/_pro/scenes/missions/ancestral/mild_vesper_night.brick": "The Procurers - Night",
     "assembly:/_pro/scenes/missions/ancestral/tod_vesper_night.brick": "The Procurers - Night",
-    "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "The Liability - Midday",
+    "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick": "The Liability - Midday (Hangover Mode)",
+    "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "The Liability - Midday (Hangover Mode)",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": "The Drop - Sunset",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": "The Drop - Sunset",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_meyer.brick": "Vanilla",
@@ -212,7 +213,8 @@ export const brickToVersion = {
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick": 16,
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick": 16,
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick": 16,
-    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick": 16
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick": 16,
+    "0ffe44ea-d241-49ec-835c-74d5714db343|assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick": 16.4
     
 };
 
@@ -244,6 +246,7 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": "tod_sunsetberlin",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": "tod_sunsetberlin",
+    "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick": "tod_et_middayberlin",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "tod_et_middayberlin",
     "assembly:/_pro/scenes/missions/wet/mission_hot_noodle.brick": "mission_mild_noodle",
     "assembly:/_pro/scenes/missions/wet/hot_noodle_day.brick": "mild_noodle_day",
