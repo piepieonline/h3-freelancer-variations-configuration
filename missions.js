@@ -185,7 +185,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/ancestral/hot_bramble_midday.brick"
     ],
     "0ffe44ea-d241-49ec-835c-74d5714db343": [
-        "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick",
+        "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick",
         "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick",
         "assembly:/_pro/scenes/missions/edgy/mission_fox/variant_easterl3.brick",
         "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_meyer.brick"
