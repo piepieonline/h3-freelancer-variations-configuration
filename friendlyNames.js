@@ -1,4 +1,4 @@
-export const currentFileVersion = 16.4;
+export const currentFileVersion = 17;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -6,18 +6,18 @@ export const guidToName = {
     "ebb8cdab-e521-4ba8-9288-d697b1aaaba7": "Paris",
     "d40076af-74d1-484e-8936-1367d5b107ce": "Bangkok",
     "107100ca-f910-49a9-ac13-59d0bb5691a4": "Colombia",
-    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": "Colorado",
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": "Colorado/Romania",
     "d4719601-83ce-4ca9-83cd-5164331d643f": "Sapienza",
     "84727ec8-7f13-4c00-94c1-b5c60a8a181f": "Dubai",
     "cd1c3479-e3e4-42c3-a9a4-bfedd2ea31f9": "Dubai (Showdown)",
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd": "Dartmoor",
     "0ffe44ea-d241-49ec-835c-74d5714db343": "Berlin",
-    "be4714d4-c7a5-4c21-a63a-89c5643965e7": "New York",
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7": "New York/Romania",
     "f075fbc3-79ef-4e42-9326-9572f712a298": "Haven Island",
     "59c15d1e-c65e-4394-9906-46cdeb944c64": "Mumbai",
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": "Chongqing",
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": "Whittleton Creek",
-    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": "Hawke's Bay/Hantu Port",
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": "Hawke's Bay/Hantu Port/Romania",
     "4a34f12a-ab98-4dc5-9262-c600193b2629": "Miami",
     "37be638c-4265-4622-9326-8835b8535180": "Isle of Sgàil/Hantu Port",
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": "Marrakesh",
@@ -80,8 +80,11 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/colorado_2/ets_night_mild.brick": "ETs - Night",
     "assembly:/_pro/scenes/missions/colorado_2/scenario_rabies_spades.brick": "The Vector",
     "assembly:/_pro/scenes/missions/colorado_2/mission_mild_rabies.brick": "The Vector",
+    "assembly:/_pro/scenes/missions/colorado_2/mission_mild_spades.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/colorado_2/gamechanger_wild_card_daisy.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick": "Midday",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_Colorado.brick": "Romania - Passenger Train (Night)",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_Colorado.brick": "Romania - Passenger Train (Day)",
     "assembly:/_pro/scenes/missions/hokkaido/mission_mild_flu.brick": "Patient Zero",
     "assembly:/_pro/scenes/missions/hokkaido/mission_hot_flu.brick": "Patient Zero",
     "assembly:/_pro/scenes/missions/hokkaido/mission_mild_mamushi.brick": "Snow Festival + ETs (Night)",
@@ -101,6 +104,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick": "Hantu Port - Sunset [REQUIRES EXTERNAL MOD]",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick": "Hantu Port - Rainy Night [REQUIRES EXTERNAL MOD]",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick": "Hantu Port - Rainy Night [REQUIRES EXTERNAL MOD]",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped.brick": "Romania - Passenger Train (Night)",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick": "Romania - Passenger Train (Day)",
     "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/override_pinochle.brick": "Vanilla",
@@ -130,7 +135,11 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/theark/mission_mild_whist.brick": "Sgail - Vanilla",
     "assembly:/_pro/scenes/missions/theark/mission_hot_whist.brick": "Sgail - Vanilla",
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": "Stock Crash - Sunny Midday",
-    "assembly:/_pro/scenes/missions/greedy/mission_raccoon/override_blackjack.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mild_midday.brick": "Stock Crash - Sunny Midday",
+    "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_mild_blackjack.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_hot_blackjack.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_NY.brick": "Romania - Passenger Train (Night)",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_NY.brick": "Romania - Passenger Train (Day)",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick": "Vanilla",
@@ -214,7 +223,13 @@ export const brickToVersion = {
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick": 16,
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick": 16,
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick": 16,
-    "0ffe44ea-d241-49ec-835c-74d5714db343|assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick": 16.4
+    "0ffe44ea-d241-49ec-835c-74d5714db343|assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick": 16.4,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/trapped/mild_trapped.brick": 17,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick": 17,
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/trapped/mild_trapped_NY.brick": 17,
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/trapped/mild_trapped_day_NY.brick": 17,
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a|assembly:/_pro/scenes/missions/trapped/mild_trapped_Colorado.brick": 17,
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a|assembly:/_pro/scenes/missions/trapped/mild_trapped_day_Colorado.brick": 17
     
 };
 
