@@ -55,8 +55,9 @@ export const missions = {
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": [
         "assembly:/_pro/scenes/missions/colorado_2/ets_night_mild.brick",
         "assembly:/_pro/scenes/missions/colorado_2/mission_mild_rabies.brick",
-        "assembly:/_pro/scenes/missions/colorado_2/gamechanger_wild_card_daisy.brick",
-        "assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick"
+        "assembly:/_pro/scenes/missions/colorado_2/mission_mild_spades.brick",
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped_Colorado.brick",
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_Colorado.brick"
     ],
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": [
         "assembly:/_pro/scenes/missions/colorado_2/ets_night.brick",
@@ -83,7 +84,9 @@ export const missions = {
         "assembly:/_pro/scenes/missions/sheep/mild_adonis_midday.brick",
         "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick",
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_hex.brick",
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick"
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick",
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped.brick",
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick"
     ],
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": [
         "assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick",
@@ -147,8 +150,10 @@ export const missions = {
         "assembly:/_pro/scenes/missions/theark/mission_hot_whist.brick"
     ],
     "be4714d4-c7a5-4c21-a63a-89c5643965e7": [
-        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/override_blackjack.brick",
-        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick"
+        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_mild_blackjack.brick",
+        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mild_midday.brick",
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped_NY.brick",
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_NY.brick"
     ],
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": [
         "assembly:/_pro/scenes/missions/greedy/mission_raccoon/override_blackjack.brick",
@@ -241,7 +246,9 @@ export const missionstoclear = {
     "37be638c-4265-4622-9326-8835b8535180": true,
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": true,
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": true,
-    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": true
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": true,
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7": true,
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": true
     
 }
 
@@ -255,7 +262,9 @@ export const hardbricks = {
     "37be638c-4265-4622-9326-8835b8535180": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
-    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"]
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"]
 }
 
 export const offbydefault = [
@@ -267,5 +276,9 @@ export const offbydefault = [
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_hex.brick",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick"
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped.brick",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_Colorado.brick",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_Colorado.brick"
 ]
