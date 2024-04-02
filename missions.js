@@ -156,7 +156,7 @@ export const missions = {
         "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_NY.brick"
     ],
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": [
-        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/override_blackjack.brick",
+        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_hot_blackjack.brick",
         "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick"
     ],
     "f075fbc3-79ef-4e42-9326-9572f712a298": [
