@@ -256,6 +256,7 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick": "mission_mild_hantu_night",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick": "mission_mild_hantu",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick": "mission_mild_hantu_night",
+    "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": "mild_midday",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "tod_nighthaven",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "tod_nighthaven",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson",
@@ -269,7 +270,11 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/wet/tod_mild_et_midday.brick": "tod_et_middaychong",
     "assembly:/_pro/Scenes/missions/elegant/ets_midday_mild.brick": "ets_midday",
     "assembly:/_pro/scenes/missions/rocky/tod_sunset.brick": "tod_sunsetambrose",
-    "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "tod_middayambrose"
+    "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "tod_middayambrose",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_NY.brick": "mild_trapped",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_NY.brick": "mild_trapped_day",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_Colorado.brick": "mild_trapped",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_Colorado.brick": "mild_trapped_day"
 };
 
 export const displayOrder = [
