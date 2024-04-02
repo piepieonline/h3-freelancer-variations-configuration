@@ -56,8 +56,8 @@ export const missions = {
         "assembly:/_pro/scenes/missions/colorado_2/ets_night_mild.brick",
         "assembly:/_pro/scenes/missions/colorado_2/mission_mild_rabies.brick",
         "assembly:/_pro/scenes/missions/colorado_2/mission_mild_spades.brick",
-        "assembly:/_pro/scenes/missions/trapped/mild_trapped_Colorado.brick",
-        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_Colorado.brick"
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick",
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick"
     ],
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": [
         "assembly:/_pro/scenes/missions/colorado_2/ets_night.brick",
@@ -152,8 +152,8 @@ export const missions = {
     "be4714d4-c7a5-4c21-a63a-89c5643965e7": [
         "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_mild_blackjack.brick",
         "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mild_midday.brick",
-        "assembly:/_pro/scenes/missions/trapped/mild_trapped_NY.brick",
-        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_NY.brick"
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick",
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick"
     ],
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": [
         "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_hot_blackjack.brick",
