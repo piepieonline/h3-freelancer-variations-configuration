@@ -83,8 +83,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/colorado_2/mission_mild_spades.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/colorado_2/gamechanger_wild_card_daisy.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick": "Midday",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_Colorado.brick": "Romania - Passenger Train (Night)",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_Colorado.brick": "Romania - Passenger Train (Day)",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick": "Romania - Passenger Train (Night)",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick": "Romania - Passenger Train (Day)",
     "assembly:/_pro/scenes/missions/hokkaido/mission_mild_flu.brick": "Patient Zero",
     "assembly:/_pro/scenes/missions/hokkaido/mission_hot_flu.brick": "Patient Zero",
     "assembly:/_pro/scenes/missions/hokkaido/mission_mild_mamushi.brick": "Snow Festival + ETs (Night)",
@@ -138,8 +138,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mild_midday.brick": "Stock Crash - Sunny Midday",
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_mild_blackjack.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_hot_blackjack.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_NY.brick": "Romania - Passenger Train (Night)",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_NY.brick": "Romania - Passenger Train (Day)",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick": "Romania - Passenger Train (Night)",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick": "Romania - Passenger Train (Day)",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick": "Vanilla",
@@ -226,10 +226,10 @@ export const brickToVersion = {
     "0ffe44ea-d241-49ec-835c-74d5714db343|assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick": 16.4,
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/trapped/mild_trapped.brick": 17,
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick": 17,
-    "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/trapped/mild_trapped_NY.brick": 17,
-    "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/trapped/mild_trapped_day_NY.brick": 17,
-    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a|assembly:/_pro/scenes/missions/trapped/mild_trapped_Colorado.brick": 17,
-    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a|assembly:/_pro/scenes/missions/trapped/mild_trapped_day_Colorado.brick": 17
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick": 17,
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick": 17,
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a|assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick": 17,
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a|assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick": 17
     
 };
 
@@ -256,7 +256,7 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick": "mission_mild_hantu_night",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick": "mission_mild_hantu",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick": "mission_mild_hantu_night",
-    "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": "mild_midday",
+    "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mild_midday.brick": "raccoon_midday",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "tod_nighthaven",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "tod_nighthaven",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson",
@@ -271,10 +271,10 @@ export const brickToImage = {
     "assembly:/_pro/Scenes/missions/elegant/ets_midday_mild.brick": "ets_midday",
     "assembly:/_pro/scenes/missions/rocky/tod_sunset.brick": "tod_sunsetambrose",
     "assembly:/_pro/scenes/missions/rocky/tod_midday.brick": "tod_middayambrose",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_NY.brick": "mild_trapped",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_NY.brick": "mild_trapped_day",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_Colorado.brick": "mild_trapped",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_Colorado.brick": "mild_trapped_day"
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick": "mild_trapped",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick": "mild_trapped_day",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick": "mild_trapped",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick": "mild_trapped_day"
 };
 
 export const displayOrder = [
