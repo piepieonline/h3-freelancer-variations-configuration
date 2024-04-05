@@ -279,6 +279,6 @@ export const offbydefault = [
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick",
     "assembly:/_pro/scenes/missions/trapped/mild_trapped.brick",
     "assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_Colorado.brick",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_Colorado.brick"
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick"
 ]
