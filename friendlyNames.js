@@ -240,7 +240,6 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/coastaltown/tod_mild_sunset.brick": "tod_ets_sunset",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": "sunset_ets",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_brothers.brick": "mission_mild_brothers",
-    "assembly:/_pro/scenes/missions/marrakesh/mission_hot_brothers.brick": "mission_mild_brothers",
     "assembly:/_pro/scenes/missions/bangkok/tod_zika_night.brick": "mission_zika",
     "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick": "mild_adonis",
     "assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick": "mild_adonis",
