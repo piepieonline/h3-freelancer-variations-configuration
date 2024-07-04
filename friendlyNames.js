@@ -1,4 +1,4 @@
-export const currentFileVersion = 17;
+export const currentFileVersion = 17.11;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
@@ -132,6 +132,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": "Hantu Port - Rainy Night [REQUIRES EXTERNAL MOD]",
     "assembly:/_pro/scenes/missions/theark/tod_day_ets_mild.brick": "Sgail - ETs (Day)",
     "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick": "Sgail - ETs (Day)",
+    "assembly:/_pro/scenes/missions/theark/sunset_disruptor_mild.brick": "Sgail - The Disruptor (Sunset)",
+    "assembly:/_pro/scenes/missions/theark/sunset_disruptor.brick": "Sgail - The Disruptor (Sunset)",
     "assembly:/_pro/scenes/missions/theark/mission_mild_whist.brick": "Sgail - Vanilla",
     "assembly:/_pro/scenes/missions/theark/mission_hot_whist.brick": "Sgail - Vanilla",
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick": "Stock Crash - Sunny Midday",
@@ -229,7 +231,9 @@ export const brickToVersion = {
     "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick": 17,
     "be4714d4-c7a5-4c21-a63a-89c5643965e7|assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick": 17,
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a|assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick": 17,
-    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a|assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick": 17
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a|assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick": 17,
+    "37be638c-4265-4622-9326-8835b8535180|assembly:/_pro/scenes/missions/theark/sunset_disruptor_mild.brick": 17.11,
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39|assembly:/_pro/scenes/missions/theark/sunset_disruptor.brick": 17.11
     
 };
 
