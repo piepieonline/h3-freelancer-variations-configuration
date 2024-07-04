@@ -285,7 +285,8 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick": "mild_trapped",
     "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick": "mild_trapped_day",
     "assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick": "mild_trapped",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick": "mild_trapped_day"
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick": "mild_trapped_day",
+    "assembly:/_pro/scenes/missions/theark/sunset_disruptor_mild.brick": "sunset_disruptor"
 };
 
 export const displayOrder = [
