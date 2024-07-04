@@ -140,12 +140,14 @@ export const missions = {
     "37be638c-4265-4622-9326-8835b8535180": [
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick",
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick",
+        "assembly:/_pro/scenes/missions/theark/sunset_disruptor_mild.brick",
         "assembly:/_pro/scenes/missions/theark/tod_day_ets_mild.brick",
         "assembly:/_pro/scenes/missions/theark/mission_mild_whist.brick"
     ],
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": [
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick",
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick",
+        "assembly:/_pro/scenes/missions/theark/sunset_disruptor.brick",
         "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick",
         "assembly:/_pro/scenes/missions/theark/mission_hot_whist.brick"
     ],
