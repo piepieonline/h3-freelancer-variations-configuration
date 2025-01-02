@@ -143,7 +143,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_hot_blackjack.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick": "Romania - Passenger Train (Night)",
     "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick": "Romania - Passenger Train (Day)",
-    "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick": "Night",
+    "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_hot.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_hot_hilo.brick": "Vanilla",
