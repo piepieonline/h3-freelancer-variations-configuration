@@ -1,4 +1,4 @@
-export const currentFileVersion = 18;
+export const currentFileVersion = 18.3;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island/Cuba",
@@ -254,7 +254,9 @@ export const brickToVersion = {
     "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick": 18,
     "d2419fe4-ea72-4e61-b91b-bb39706f551d|assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick": 18,
     "d2419fe4-ea72-4e61-b91b-bb39706f551d|assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": 18,
-    "ebb8cdab-e521-4ba8-9288-d697b1aaaba7|assembly:/_pro/scenes/missions/paris/tod_midday_mild.brick": 18
+    "ebb8cdab-e521-4ba8-9288-d697b1aaaba7|assembly:/_pro/scenes/missions/paris/tod_midday_mild.brick": 18,
+    "59c15d1e-c65e-4394-9906-46cdeb944c64|assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick": 18.3,
+    "0d2a243a-f140-4be5-bfe7-e151878ec88e|assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick": 18.3
     
 };
 
@@ -277,7 +279,7 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/colombia/night_hot_highball.brick": "night_mild_highball",
     "assembly:/_pro/scenes/missions/colombia/mission_hot_anaconda.brick": "mission_mild_anaconda",
     "assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick": "tod_middaymumbai",
-    "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick": "tod_middaymumbai",
+    "assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick": "tod_middaymumbai",
     "assembly:/_pro/scenes/missions/mumbai/mumbai_night.brick": "tod_nightmumbai",
     "assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick": "elusive_sunset",
     "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick": "ass_night",
