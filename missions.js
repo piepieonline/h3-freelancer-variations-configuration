@@ -261,6 +261,7 @@ export const missionstoclear = {
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": true,
     "e72588a-46ea-4cb8-a10f-e2242ca8cc99": true,
     "060a48f0-117b-4b22-a165-111fd4a5b745": true,
+    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": true,
     "f075fbc3-79ef-4e42-9326-9572f712a298": true,
     "d2419fe4-ea72-4e61-b91b-bb39706f551d": true
     
