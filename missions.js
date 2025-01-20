@@ -119,12 +119,12 @@ export const missions = {
     "59c15d1e-c65e-4394-9906-46cdeb944c64": [
         "assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick",
         "assembly:/_pro/scenes/missions/mumbai/mumbai_night.brick",
-        "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick",
+        "assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick",
         "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick"
     ],
     "0d2a243a-f140-4be5-bfe7-e151878ec88e": [
         "assembly:/_pro/scenes/missions/mumbai/mumbai_night.brick",
-        "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick",
+        "assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick",
         "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick"
     ],
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": [

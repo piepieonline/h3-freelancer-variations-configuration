@@ -124,7 +124,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick": "The Serial Killer - Sunset",
     "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/mumbai/mumbai_night.brick": "Night",
-    "assembly:/_pro/scenes/missions/mumbai/tod_midday.brick": "Day",
+    "assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick": "Day",
     "assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick": "Illusions of Grandeur",
     "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick": "Hantu Port - Sunset [REQUIRES EXTERNAL MOD]",
