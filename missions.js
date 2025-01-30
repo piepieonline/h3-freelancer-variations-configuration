@@ -99,12 +99,16 @@ export const missions = {
     "4a34f12a-ab98-4dc5-9262-c600193b2629": [
         "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick",
         "assembly:/_pro/scenes/missions/miami/override_pinochle.brick",
-        "assembly:/_pro/scenes/missions/miami/mild_sunset.brick"
+        "assembly:/_pro/scenes/missions/miami/mild_sunset.brick",
+        "assembly:/_pro/scenes/missions/miami/mission_mild_yacht.brick",
+        "assembly:/_pro/scenes/missions/miami/yacht_night_mild.brick"
     ],
     "ee67660e-4bd6-4743-9163-40331056f690": [
         "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick",
         "assembly:/_pro/scenes/missions/miami/override_pinochle.brick",
-        "assembly:/_pro/scenes/missions/miami/variant_sunset.brick"
+        "assembly:/_pro/scenes/missions/miami/variant_sunset.brick",
+        "assembly:/_pro/scenes/missions/miami/mission_hot_yacht.brick",
+        "assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick"
     ],
     "107100ca-f910-49a9-ac13-59d0bb5691a4": [
         "assembly:/_pro/scenes/missions/colombia/mission_mild_anaconda.brick",
@@ -263,7 +267,9 @@ export const missionstoclear = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": true,
     "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": true,
     "f075fbc3-79ef-4e42-9326-9572f712a298": true,
-    "d2419fe4-ea72-4e61-b91b-bb39706f551d": true
+    "d2419fe4-ea72-4e61-b91b-bb39706f551d": true,
+    "4a34f12a-ab98-4dc5-9262-c600193b2629": true,
+    "ee67660e-4bd6-4743-9163-40331056f690": true
     
 }
 
@@ -281,7 +287,9 @@ export const hardbricks = {
     "be4714d4-c7a5-4c21-a63a-89c5643965e7": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "060a48f0-117b-4b22-a165-111fd4a5b745": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
-    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"]
+    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "4a34f12a-ab98-4dc5-9262-c600193b2629": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
+    "ee67660e-4bd6-4743-9163-40331056f690": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"]
 }
 
 export const offbydefault = [

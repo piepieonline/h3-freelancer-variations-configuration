@@ -1,4 +1,4 @@
-export const currentFileVersion = 18.3;
+export const currentFileVersion = 19;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island/Cuba",
@@ -18,7 +18,7 @@ export const guidToName = {
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": "Chongqing",
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": "Whittleton Creek",
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": "Hawke's Bay/Hantu Port/Romania",
-    "4a34f12a-ab98-4dc5-9262-c600193b2629": "Miami",
+    "4a34f12a-ab98-4dc5-9262-c600193b2629": "Miami/Yacht",
     "37be638c-4265-4622-9326-8835b8535180": "Isle of Sgàil/Hantu Port",
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": "Marrakesh",
     "89500fa3-2466-4c52-8b90-9890cc5039ee": "Mendoza",
@@ -37,7 +37,7 @@ export const guidToName = {
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": "Chongqing (Showdown)",
     "6efd360a-5f78-44ac-9823-df077018c2b3": "Whittleton Creek (Showdown)",
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": "Hawke's Bay/Hantu Port/Romania (Showdown)",
-    "ee67660e-4bd6-4743-9163-40331056f690": "Miami (Showdown)",
+    "ee67660e-4bd6-4743-9163-40331056f690": "Miami/Yacht (Showdown)",
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": "Isle of Sgàil/Hantu Port (Showdown)",
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": "Marrakesh (Showdown)",
     "8caa8f0e-ac39-4088-95c1-42075afe8213": "Mendoza (Showdown)"
@@ -112,6 +112,10 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/miami/override_pinochle.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/miami/mild_sunset.brick": "The Undying - Sunset",
     "assembly:/_pro/scenes/missions/miami/variant_sunset.brick": "The Undying - Sunset",
+    "assembly:/_pro/scenes/missions/miami/mission_mild_yacht.brick": "Yacht - Sunset",
+    "assembly:/_pro/scenes/missions/miami/mission_hot_yacht.brick": "Yacht - Sunset",
+    "assembly:/_pro/scenes/missions/miami/yacht_night_mild.brick": "Yacht - Night",
+    "assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": "Yacht - Night",
     "assembly:/_pro/scenes/missions/colombia/mission_mild_anaconda.brick": "Embrace of the Serpent",
     "assembly:/_pro/scenes/missions/colombia/mission_hot_anaconda.brick": "Embrace of the Serpent",
     "assembly:/_pro/scenes/missions/colombia/night_mild_highball.brick": "The Revolutionary - Night",
@@ -256,7 +260,11 @@ export const brickToVersion = {
     "d2419fe4-ea72-4e61-b91b-bb39706f551d|assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": 18,
     "ebb8cdab-e521-4ba8-9288-d697b1aaaba7|assembly:/_pro/scenes/missions/paris/tod_midday_mild.brick": 18,
     "59c15d1e-c65e-4394-9906-46cdeb944c64|assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick": 18.3,
-    "0d2a243a-f140-4be5-bfe7-e151878ec88e|assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick": 18.3
+    "0d2a243a-f140-4be5-bfe7-e151878ec88e|assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick": 18.3,
+    "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/mission_mild_yacht.brick": 19,
+    "ee67660e-4bd6-4743-9163-40331056f690|assembly:/_pro/scenes/missions/miami/mission_hot_yacht.brick": 19,
+    "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/yacht_night_mild.brick": 19,
+    "ee67660e-4bd6-4743-9163-40331056f690|assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": 19
     
 };
 
@@ -318,7 +326,9 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick": "mission_mild_cuba",
     "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": "mild_cuba_day",
     "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick": "mild_cuba_day",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": "mild_cuba_day"
+    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": "mild_cuba_day",
+    "assembly:/_pro/scenes/missions/miami/mission_hot_yacht.brick": "mission_mild_yacht",
+    "assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": "yacht_night_mild"
 };
 
 export const displayOrder = [
