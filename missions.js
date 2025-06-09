@@ -1,12 +1,12 @@
 export const missions = {
     "ebb8cdab-e521-4ba8-9288-d697b1aaaba7": [
-        "assembly:/_pro/scenes/missions/paris/hoarders_variant.brick",
+        "assembly:/_pro/scenes/missions/paris/thebanker_mild.brick",
         "assembly:/_pro/scenes/missions/paris/gamechangers_wild_card_juniper.brick",
         "assembly:/_pro/scenes/missions/paris/tod_midday_mild.brick",
         "assembly:/_pro/scenes/missions/paris/tod_ets_mild.brick"
     ],
     "c945b720-12c4-4f62-8026-4b4011a67dff": [
-        "assembly:/_pro/scenes/missions/paris/hoarders_variant.brick",
+        "assembly:/_pro/scenes/missions/paris/thebanker_hot.brick",
         "assembly:/_pro/scenes/missions/paris/gamechangers_wild_card_juniper.brick",
         "assembly:/_pro/scenes/missions/paris/tod_midday.brick",
         "assembly:/_pro/scenes/missions/paris/tod_ets.brick"
