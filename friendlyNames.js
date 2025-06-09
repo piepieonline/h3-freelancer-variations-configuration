@@ -1,4 +1,4 @@
-export const currentFileVersion = 19;
+export const currentFileVersion = 19.4;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island/Cuba",
@@ -44,7 +44,8 @@ export const guidToName = {
 };
 
 export const brickToName = {
-    "assembly:/_pro/scenes/missions/paris/hoarders_variant.brick": "Christmas",
+    "assembly:/_pro/scenes/missions/paris/thebanker_mild.brick": "Christmas + The Banker",
+    "assembly:/_pro/scenes/missions/paris/thebanker_hot.brick": "Christmas + The Banker",
     "assembly:/_pro/scenes/missions/paris/gamechangers_wild_card_juniper.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/paris/tod_midday.brick": "Midday",
     "assembly:/_pro/scenes/missions/paris/tod_midday_mild.brick": "Midday",
@@ -265,7 +266,9 @@ export const brickToVersion = {
     "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/mission_mild_yacht.brick": 19,
     "ee67660e-4bd6-4743-9163-40331056f690|assembly:/_pro/scenes/missions/miami/mission_hot_yacht.brick": 19,
     "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/yacht_night_mild.brick": 19,
-    "ee67660e-4bd6-4743-9163-40331056f690|assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": 19
+    "ee67660e-4bd6-4743-9163-40331056f690|assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": 19,
+    "ebb8cdab-e521-4ba8-9288-d697b1aaaba7|assembly:/_pro/scenes/missions/paris/thebanker_mild.brick": 19.4,
+    "c945b720-12c4-4f62-8026-4b4011a67dff|assembly:/_pro/scenes/missions/paris/thebanker_hot.brick": 19.4
     
 };
 
@@ -329,7 +332,8 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick": "mild_cuba_day",
     "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": "mild_cuba_day",
     "assembly:/_pro/scenes/missions/miami/mission_hot_yacht.brick": "mission_mild_yacht",
-    "assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": "yacht_night_mild"
+    "assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": "yacht_night_mild",
+    "assembly:/_pro/scenes/missions/paris/thebanker_hot.brick": "thebanker_mild"
 };
 
 export const displayOrder = [
