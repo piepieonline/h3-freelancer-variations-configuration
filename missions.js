@@ -69,13 +69,15 @@ export const missions = {
         "assembly:/_pro/scenes/missions/hokkaido/mission_mild_mamushi.brick",
         "assembly:/_pro/scenes/missions/hokkaido/mission_mild_flu.brick",
         "assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick",
-        "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick"
+        "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick",
+        "assembly:/_pro/scenes/missions/hokkaido/blossom.brick"
     ],
     "65659b19-fb1a-4a14-b074-65227ffac128": [
         "assembly:/_pro/scenes/missions/hokkaido/mission_hot_flu.brick",
         "assembly:/_pro/scenes/missions/hokkaido/hsf_night.brick",
         "assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick",
-        "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick"
+        "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick",
+        "assembly:/_pro/scenes/missions/hokkaido/blossom.brick"
     ],
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": [
         "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick",
@@ -309,5 +311,6 @@ export const offbydefault = [
     "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven.brick",
     "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick",
     "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick"
+    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick",
+    "assembly:/_pro/scenes/missions/hokkaido/blossom.brick"
 ]

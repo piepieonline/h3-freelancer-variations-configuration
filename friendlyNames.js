@@ -1,4 +1,4 @@
-export const currentFileVersion = 19.4;
+export const currentFileVersion = 19.6;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island/Cuba",
@@ -93,6 +93,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/hokkaido/hsf_night.brick": "Snow Festival + ETs (Night)",
     "assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick": "Day",
     "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/hokkaido/blossom.brick": "Blossom Festival [REQUIRES EXTERNAL MOD 'Blossom Fest - A Fundraiser']",
     "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick": "Nightcall - Night",
     "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick": "The Politician - Night",
     "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunrise.brick": "The Politician - Sunrise",
@@ -268,7 +269,9 @@ export const brickToVersion = {
     "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/yacht_night_mild.brick": 19,
     "ee67660e-4bd6-4743-9163-40331056f690|assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": 19,
     "ebb8cdab-e521-4ba8-9288-d697b1aaaba7|assembly:/_pro/scenes/missions/paris/thebanker_mild.brick": 19.4,
-    "c945b720-12c4-4f62-8026-4b4011a67dff|assembly:/_pro/scenes/missions/paris/thebanker_hot.brick": 19.4
+    "c945b720-12c4-4f62-8026-4b4011a67dff|assembly:/_pro/scenes/missions/paris/thebanker_hot.brick": 19.4,
+    "76fd7c40-83a0-48c9-be49-cef107583eae|assembly:/_pro/scenes/missions/hokkaido/blossom.brick": 19.6,
+    "65659b19-fb1a-4a14-b074-65227ffac128|assembly:/_pro/scenes/missions/hokkaido/blossom.brick": 19.6
     
 };
 
