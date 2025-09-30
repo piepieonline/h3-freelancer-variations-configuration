@@ -1,4 +1,4 @@
-export const currentFileVersion = 19.6;
+export const currentFileVersion = 19.7;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island/Cuba",
@@ -78,6 +78,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/bangkok/tod_zika_night.brick": "Night",
     "assembly:/_pro/scenes/missions/bangkok/tod_warlord_midday.brick": "ETs - Midday",
     "assembly:/_pro/scenes/missions/bangkok/tod_warlord_hot_midday.brick": "ETs - Midday",
+    "assembly:/_pro/scenes/missions/bangkok/mild_baiju.brick": "The Infiltrator - Morning",
+    "assembly:/_pro/scenes/missions/bangkok/hot_baiju.brick": "The Infiltrator - Morning",
     "assembly:/_pro/scenes/missions/colorado_2/ets_night.brick": "ETs - Night",
     "assembly:/_pro/scenes/missions/colorado_2/ets_night_mild.brick": "ETs - Night",
     "assembly:/_pro/scenes/missions/colorado_2/scenario_rabies_spades.brick": "The Vector",
@@ -271,7 +273,9 @@ export const brickToVersion = {
     "ebb8cdab-e521-4ba8-9288-d697b1aaaba7|assembly:/_pro/scenes/missions/paris/thebanker_mild.brick": 19.4,
     "c945b720-12c4-4f62-8026-4b4011a67dff|assembly:/_pro/scenes/missions/paris/thebanker_hot.brick": 19.4,
     "76fd7c40-83a0-48c9-be49-cef107583eae|assembly:/_pro/scenes/missions/hokkaido/blossom.brick": 19.6,
-    "65659b19-fb1a-4a14-b074-65227ffac128|assembly:/_pro/scenes/missions/hokkaido/blossom.brick": 19.6
+    "65659b19-fb1a-4a14-b074-65227ffac128|assembly:/_pro/scenes/missions/hokkaido/blossom.brick": 19.6,
+    "d40076af-74d1-484e-8936-1367d5b107ce|assembly:/_pro/scenes/missions/bangkok/mild_baiju.brick": 19.7,
+    "2f562dba-2b14-42f3-b9fb-eb72e79450ba|assembly:/_pro/scenes/missions/bangkok/hot_baiju.brick": 19.7
     
 };
 
@@ -279,11 +283,13 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/paris/tod_midday_mild.brick": "tod_middayparis",
     "assembly:/_pro/scenes/missions/paris/tod_midday.brick": "tod_middayparis",
     "assembly:/_pro/scenes/missions/paris/tod_ets.brick": "tod_ets_mild",
+    "assembly:/_pro/scenes/missions/paris/thebanker_hot.brick": "thebanker_mild",
     "assembly:/_pro/scenes/missions/coastaltown/hot_landslide_day.brick": "tod_landslide_day",
     "assembly:/_pro/scenes/missions/coastaltown/tod_mild_sunset.brick": "tod_ets_sunset",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_sunset.brick": "sunset_ets",
     "assembly:/_pro/scenes/missions/marrakesh/mission_hot_brothers.brick": "mission_mild_brothers",
     "assembly:/_pro/scenes/missions/bangkok/tod_zika_night.brick": "mission_zika",
+    "assembly:/_pro/scenes/missions/bangkok/hot_baiju.brick": "mild_baiju",
     "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick": "mild_adonis",
     "assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick": "mild_adonis",
     "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick": "mild_adonis",
@@ -291,6 +297,8 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick": "mild_adonis_sunset",
     "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick": "mild_adonis_midday",
     "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick": "tod_night_ass",
+    "assembly:/_pro/scenes/missions/miami/mission_hot_yacht.brick": "mission_mild_yacht",
+    "assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": "yacht_night_mild",
     "assembly:/_pro/scenes/missions/colombia/night_hot_highball.brick": "night_mild_highball",
     "assembly:/_pro/scenes/missions/colombia/mission_hot_anaconda.brick": "mission_mild_anaconda",
     "assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick": "tod_middaymumbai",
@@ -333,10 +341,7 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick": "mission_mild_cuba",
     "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": "mild_cuba_day",
     "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick": "mild_cuba_day",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": "mild_cuba_day",
-    "assembly:/_pro/scenes/missions/miami/mission_hot_yacht.brick": "mission_mild_yacht",
-    "assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": "yacht_night_mild",
-    "assembly:/_pro/scenes/missions/paris/thebanker_hot.brick": "thebanker_mild"
+    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": "mild_cuba_day"
 };
 
 export const displayOrder = [

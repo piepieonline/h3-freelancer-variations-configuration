@@ -44,13 +44,15 @@ export const missions = {
         "assembly:/_pro/scenes/missions/bangkok/mission_mild_zika.brick",
         "assembly:/_pro/scenes/missions/bangkok/gamechanger_wild_card_geranium.brick",
         "assembly:/_pro/scenes/missions/bangkok/tod_zika_night.brick",
-        "assembly:/_pro/scenes/missions/bangkok/tod_warlord_midday.brick"
+        "assembly:/_pro/scenes/missions/bangkok/tod_warlord_midday.brick",
+        "assembly:/_pro/scenes/missions/bangkok/mild_baiju.brick"
     ],
     "2f562dba-2b14-42f3-b9fb-eb72e79450ba": [
         "assembly:/_pro/scenes/missions/bangkok/mission_zika.brick",
         "assembly:/_pro/scenes/missions/bangkok/gamechanger_wild_card_geranium.brick",
         "assembly:/_pro/scenes/missions/bangkok/tod_zika_night.brick",
-        "assembly:/_pro/scenes/missions/bangkok/tod_warlord_hot_midday.brick"
+        "assembly:/_pro/scenes/missions/bangkok/tod_warlord_hot_midday.brick",
+        "assembly:/_pro/scenes/missions/bangkok/hot_baiju.brick"
     ],
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": [
         "assembly:/_pro/scenes/missions/colorado_2/ets_night_mild.brick",
