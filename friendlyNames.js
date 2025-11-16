@@ -86,6 +86,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/colorado_2/scenario_rabies_spades.brick": "The Vector",
     "assembly:/_pro/scenes/missions/colorado_2/mission_mild_rabies.brick": "The Vector",
     "assembly:/_pro/scenes/missions/colorado_2/mission_mild_spades.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/colorado_2/mission_hot_spades.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/colorado_2/gamechanger_wild_card_daisy.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick": "Midday",
     "assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick": "Romania - Passenger Train (Night)",
