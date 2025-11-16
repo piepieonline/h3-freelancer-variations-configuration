@@ -64,7 +64,7 @@ export const missions = {
     ],
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": [
         "assembly:/_pro/scenes/missions/colorado_2/ets_night.brick",
-        "assembly:/_pro/scenes/missions/colorado_2/scenario_rabies_spades.brick",
+        "assembly:/_pro/scenes/missions/colorado_2/mission_hot_rabies.brick",
         "assembly:/_pro/scenes/missions/colorado_2/mission_hot_spades.brick",
         "assembly:/_pro/scenes/missions/trapped/hot_trapped.brick",
         "assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick"

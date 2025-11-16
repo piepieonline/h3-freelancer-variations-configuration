@@ -83,7 +83,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/bangkok/hot_baiju.brick": "The Infiltrator - Morning",
     "assembly:/_pro/scenes/missions/colorado_2/ets_night.brick": "ETs - Night",
     "assembly:/_pro/scenes/missions/colorado_2/ets_night_mild.brick": "ETs - Night",
-    "assembly:/_pro/scenes/missions/colorado_2/scenario_rabies_spades.brick": "The Vector",
+    "assembly:/_pro/scenes/missions/colorado_2/mission_hot_rabies.brick": "The Vector",
     "assembly:/_pro/scenes/missions/colorado_2/mission_mild_rabies.brick": "The Vector",
     "assembly:/_pro/scenes/missions/colorado_2/mission_mild_spades.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/colorado_2/gamechanger_wild_card_daisy.brick": "Vanilla",
