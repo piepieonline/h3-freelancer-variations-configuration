@@ -26,7 +26,8 @@ export const missions = {
         "assembly:/_pro/scenes/missions/coastaltown/mission_hot_bingo.brick",
         "assembly:/_pro/scenes/missions/coastaltown/night_hot_bingo.brick",
         "assembly:/_pro/scenes/missions/coastaltown/tod_ets_sunset.brick",
-        "assembly:/_pro/scenes/missions/coastaltown/hot_landslide_day.brick"
+        "assembly:/_pro/scenes/missions/coastaltown/hot_landslide_day.brick",
+        "assembly:/_pro/scenes/missions/coastaltown/mission_hot_icon.brick"
     ],
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": [
         "assembly:/_pro/scenes/missions/marrakesh/mission_mild_python.brick",
@@ -64,8 +65,9 @@ export const missions = {
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": [
         "assembly:/_pro/scenes/missions/colorado_2/ets_night.brick",
         "assembly:/_pro/scenes/missions/colorado_2/scenario_rabies_spades.brick",
-        "assembly:/_pro/scenes/missions/colorado_2/gamechanger_wild_card_daisy.brick",
-        "assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick"
+        "assembly:/_pro/scenes/missions/colorado_2/mission_hot_spades.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick"
     ],
      "76fd7c40-83a0-48c9-be49-cef107583eae": [
         "assembly:/_pro/scenes/missions/hokkaido/mission_mild_mamushi.brick",
@@ -98,7 +100,9 @@ export const missions = {
         "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick",
         "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick",
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick",
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick"
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped_hb.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_hb.brick"
     ],
     "4a34f12a-ab98-4dc5-9262-c600193b2629": [
         "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick",
@@ -138,12 +142,14 @@ export const missions = {
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": [
         "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick",
         "assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick",
-        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
+        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick",
+        "assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick"
     ],
     "6efd360a-5f78-44ac-9823-df077018c2b3": [
         "assembly:/_pro/scenes/missions/skunk/ass_night.brick",
         "assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick",
-        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
+        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick",
+        "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick"
     ],
     "37be638c-4265-4622-9326-8835b8535180": [
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick",
@@ -167,7 +173,9 @@ export const missions = {
     ],
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": [
         "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_hot_blackjack.brick",
-        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick"
+        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped_ny.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_ny.brick"
     ],
     "f075fbc3-79ef-4e42-9326-9572f712a298": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick",
@@ -273,7 +281,9 @@ export const missionstoclear = {
     "f075fbc3-79ef-4e42-9326-9572f712a298": true,
     "d2419fe4-ea72-4e61-b91b-bb39706f551d": true,
     "4a34f12a-ab98-4dc5-9262-c600193b2629": true,
-    "ee67660e-4bd6-4743-9163-40331056f690": true
+    "ee67660e-4bd6-4743-9163-40331056f690": true,
+    "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": true,
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": true
     
 }
 
@@ -284,16 +294,18 @@ export const hardbricks = {
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"],
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],
-    "37be638c-4265-4622-9326-8835b8535180": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
-    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
-    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
-    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
+    "37be638c-4265-4622-9326-8835b8535180": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "be4714d4-c7a5-4c21-a63a-89c5643965e7": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "060a48f0-117b-4b22-a165-111fd4a5b745": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
-    "4a34f12a-ab98-4dc5-9262-c600193b2629": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"],
-    "ee67660e-4bd6-4743-9163-40331056f690": ["assembly:/_pro/scenes/bricks/outfits_vs_race.brick"]
+    "4a34f12a-ab98-4dc5-9262-c600193b2629": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "ee67660e-4bd6-4743-9163-40331056f690": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"]
 }
 
 export const offbydefault = [
@@ -314,5 +326,11 @@ export const offbydefault = [
     "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick",
     "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick",
     "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick",
-    "assembly:/_pro/scenes/missions/hokkaido/blossom.brick"
+    "assembly:/_pro/scenes/missions/hokkaido/blossom.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped_ny.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_ny.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped_hb.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_hb.brick",
+        "assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick",
+        "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick"
 ]
