@@ -294,8 +294,6 @@ export const hardbricks = {
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"],
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],
-    "37be638c-4265-4622-9326-8835b8535180": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
-    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "be4714d4-c7a5-4c21-a63a-89c5643965e7": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
