@@ -1,5 +1,5 @@
 (async () => {
-    const { missions, missionstoclear, hardbricks, offbydefault } = await import("./missions.js");
+    const { missions, missionstoclear, missionvrtoreset, hardbricks, offbydefault } = await import("./missions.js");
     const { currentFileVersion, guidToName, brickToName, brickToVersion, brickToImage, displayOrder } = await import("./friendlyNames.js");
 
     let configFileVersion = currentFileVersion;
@@ -92,7 +92,8 @@
                 "id": mission,
                 "bricks": [],
                 "hardbricks": hardbricks[mission] || [],
-                "clearDefaultBricks": missionstoclear[mission] === true
+                "clearDefaultBricks": missionstoclear[mission] === true,
+                "resetVRBricks": missionvrtoreset[mission] === true
             });
             Object.keys(selectedMissions[mission]).forEach(brick => {
                 if(selectedMissions[mission][brick])
