@@ -288,7 +288,28 @@ export const missionstoclear = {
 }
 
 export const missionvrtoreset = {
-    "ebb8cdab-e521-4ba8-9288-d697b1aaaba7": true,
+    "d4719601-83ce-4ca9-83cd-5164331d643f": true,
+    "47d10233-0008-4f34-abd2-a84ca2bb7530": true,
+    "ff0264f0-c9b8-476f-b8f2-a5762d077a09": true,
+    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": true,
+    "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": true,
+    "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": true,
+    "5162c4a1-4b07-43b1-82ad-37c9e350764c": true,
+    "37be638c-4265-4622-9326-8835b8535180": true,
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": true,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": true,
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": true,
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7": true,
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": true,
+    "e72588a-46ea-4cb8-a10f-e2242ca8cc99": true,
+    "060a48f0-117b-4b22-a165-111fd4a5b745": true,
+    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": true,
+    "f075fbc3-79ef-4e42-9326-9572f712a298": true,
+    "d2419fe4-ea72-4e61-b91b-bb39706f551d": true,
+    "4a34f12a-ab98-4dc5-9262-c600193b2629": true,
+    "ee67660e-4bd6-4743-9163-40331056f690": true,
+    "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": true,
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": true
 }
 
 export const hardbricks = {
