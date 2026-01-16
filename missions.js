@@ -287,6 +287,10 @@ export const missionstoclear = {
     
 }
 
+export const missionvrtoreset = {
+    "ebb8cdab-e521-4ba8-9288-d697b1aaaba7": true,
+}
+
 export const hardbricks = {
     "d4719601-83ce-4ca9-83cd-5164331d643f": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_beach_and_square_civilians_are_guards.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_towncameras.brick"],
     "47d10233-0008-4f34-abd2-a84ca2bb7530": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_beach_and_square_civilians_are_guards.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_towncameras.brick"],
