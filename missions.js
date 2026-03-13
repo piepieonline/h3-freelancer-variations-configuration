@@ -202,14 +202,17 @@ export const missions = {
         "assembly:/_pro/scenes/missions/ancestral/mild_bramble_midday.brick",
         "assembly:/_pro/scenes/missions/ancestral/override_bridge.brick",
         "assembly:/_pro/scenes/missions/ancestral/mission_mild_dgs.brick",
-        "assembly:/_pro/scenes/missions/ancestral/mild_dgs_night.brick"
+        "assembly:/_pro/scenes/missions/ancestral/mild_dgs_night.brick",
+        "assembly:/_pro/scenes/missions/ancestral/mild_filur.brick",
+        "assembly:/_pro/scenes/missions/ancestral/mild_filur_outbreak.brick"
     ],
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": [
         "assembly:/_pro/scenes/missions/ancestral/mission_hot_dgs.brick",
         "assembly:/_pro/scenes/missions/ancestral/hot_dgs_night.brick",
         "assembly:/_pro/scenes/missions/ancestral/tod_vesper_night.brick",
         "assembly:/_pro/scenes/missions/ancestral/mission_hot_bridge.brick",
-        "assembly:/_pro/scenes/missions/ancestral/hot_bramble_midday.brick"
+        "assembly:/_pro/scenes/missions/ancestral/hot_bramble_midday.brick",
+        "assembly:/_pro/scenes/missions/ancestral/hot_filur.brick"
     ],
     "0ffe44ea-d241-49ec-835c-74d5714db343": [
         "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick",
@@ -313,8 +316,8 @@ export const missionvrtoreset = {
 }
 
 export const hardbricks = {
-    "d4719601-83ce-4ca9-83cd-5164331d643f": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_beach_and_square_civilians_are_guards.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_towncameras.brick"],
-    "47d10233-0008-4f34-abd2-a84ca2bb7530": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_beach_and_square_civilians_are_guards.brick", "assembly:/_pro/scenes/missions/coastaltown/gamechangers_towncameras.brick"],
+    "d4719601-83ce-4ca9-83cd-5164331d643f": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_towncameras.brick"],
+    "47d10233-0008-4f34-abd2-a84ca2bb7530": ["assembly:/_pro/scenes/missions/coastaltown/gamechangers_towncameras.brick"],
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"],
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": ["assembly:/_pro/scenes/missions/marrakesh/gamechanger_python_cereus_wild_card.brick", "assembly:/_pro/scenes/missions/marrakesh/gamechangers_big_brother.brick"],
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": ["assembly:/_pro/scenes/missions/wet/difficulty_hard_ruddy.brick"],

@@ -1,4 +1,4 @@
-export const currentFileVersion = 1.10;
+export const currentFileVersion = 1.12;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island/Cuba",
@@ -180,6 +180,9 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/ancestral/hot_dgs_night.brick": "Garden Show (Night)",
     "assembly:/_pro/scenes/missions/ancestral/mild_vesper_night.brick": "The Procurers - Night",
     "assembly:/_pro/scenes/missions/ancestral/tod_vesper_night.brick": "The Procurers - Night",
+    "assembly:/_pro/scenes/missions/ancestral/mild_filur.brick": "The Harbinger",
+    "assembly:/_pro/scenes/missions/ancestral/mild_filur_outbreak.brick": "The Harbinger (Outbreak) - Rainy Night",
+    "assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": "The Harbinger",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick": "The Liability - Midday Hangover",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "The Liability - Midday Hangover",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": "The Drop - Sunset",
@@ -207,38 +210,17 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/rocky/hot_sunset_poker.brick": "Sunset",
     "assembly:/_pro/scenes/missions/rocky/mission_mild_poker.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/rocky/mission_hot_poker.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick": "Cuban Airfield - Night",
-    "assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": "Cuban Airfield - Night",
-    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven.brick": "Cuban Airfield - Night",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick": "Cuban Airfield - Night",
-    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick": "Cuban Airfield - Day",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": "Cuban Airfield - Day",
-    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick": "Cuban Airfield - Day",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": "Cuban Airfield - Day"
+    "assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
+    "assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
+    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
+    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
+    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day",
+    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day",
+    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day",
+    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day"
 };
 
 export const brickToVersion = {
-    "060a48f0-117b-4b22-a165-111fd4a5b745|assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick": 1.08,
-    "060a48f0-117b-4b22-a165-111fd4a5b745|assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick": 1.08,
-    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99|assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": 1.08,
-    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99|assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": 1.08,
-    "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven.brick": 1.08,
-    "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick": 1.08,
-    "d2419fe4-ea72-4e61-b91b-bb39706f551d|assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick": 1.08,
-    "d2419fe4-ea72-4e61-b91b-bb39706f551d|assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": 1.08,
-    "ebb8cdab-e521-4ba8-9288-d697b1aaaba7|assembly:/_pro/scenes/missions/paris/tod_midday_mild.brick": 1.08,
-    "59c15d1e-c65e-4394-9906-46cdeb944c64|assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick": 1.083,
-    "0d2a243a-f140-4be5-bfe7-e151878ec88e|assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick": 1.083,
-    "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/mission_mild_yacht.brick": 1.09,
-    "ee67660e-4bd6-4743-9163-40331056f690|assembly:/_pro/scenes/missions/miami/mission_hot_yacht.brick": 1.09,
-    "4a34f12a-ab98-4dc5-9262-c600193b2629|assembly:/_pro/scenes/missions/miami/yacht_night_mild.brick": 1.09,
-    "ee67660e-4bd6-4743-9163-40331056f690|assembly:/_pro/scenes/missions/miami/yacht_night_hot.brick": 1.09,
-    "ebb8cdab-e521-4ba8-9288-d697b1aaaba7|assembly:/_pro/scenes/missions/paris/thebanker_mild.brick": 1.094,
-    "c945b720-12c4-4f62-8026-4b4011a67dff|assembly:/_pro/scenes/missions/paris/thebanker_hot.brick": 1.094,
-    "76fd7c40-83a0-48c9-be49-cef107583eae|assembly:/_pro/scenes/missions/hokkaido/blossom.brick": 1.096,
-    "65659b19-fb1a-4a14-b074-65227ffac128|assembly:/_pro/scenes/missions/hokkaido/blossom.brick": 1.096,
-    "d40076af-74d1-484e-8936-1367d5b107ce|assembly:/_pro/scenes/missions/bangkok/mild_baiju.brick": 1.097,
-    "2f562dba-2b14-42f3-b9fb-eb72e79450ba|assembly:/_pro/scenes/missions/bangkok/hot_baiju.brick": 1.097,
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/trapped/hot_trapped.brick": 1.10,
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick": 1.10,
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4|assembly:/_pro/scenes/missions/trapped/hot_trapped_ny.brick": 1.10,
@@ -247,7 +229,10 @@ export const brickToVersion = {
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/trapped/hot_trapped_day_hb.brick": 1.10,
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f|assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick": 1.10,
     "6efd360a-5f78-44ac-9823-df077018c2b3|assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick": 1.10,
-    "47d10233-0008-4f34-abd2-a84ca2bb7530|assembly:/_pro/scenes/missions/coastaltown/mission_hot_icon.brick": 1.10
+    "47d10233-0008-4f34-abd2-a84ca2bb7530|assembly:/_pro/scenes/missions/coastaltown/mission_hot_icon.brick": 1.10,
+    "d84fb174-2cbb-4337-8a66-f13f9fb170cd|assembly:/_pro/scenes/missions/ancestral/mild_filur.brick": 1.12,
+    "d84fb174-2cbb-4337-8a66-f13f9fb170cd|assembly:/_pro/scenes/missions/ancestral/mild_filur_outbreak.brick": 1.12,
+    "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430|assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": 1.12
     
 };
 
@@ -290,6 +275,7 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "tod_nighthaven",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson",
     "assembly:/_pro/scenes/missions/ancestral/hot_dgs_night.brick": "mild_dgs_night",
+    "assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": "mild_filur",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick": "tod_sunsetberlin",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": "tod_sunsetberlin",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick": "tod_et_middayberlin",
