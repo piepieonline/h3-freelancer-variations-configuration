@@ -182,7 +182,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/ancestral/tod_vesper_night.brick": "The Procurers - Night",
     "assembly:/_pro/scenes/missions/ancestral/mild_filur.brick": "The Harbinger",
     "assembly:/_pro/scenes/missions/ancestral/mild_filur_outbreak.brick": "The Harbinger (Outbreak) - Rainy Night",
-    "assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": "The Harbinger",
+    "assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": "The Harbinger [ONLY LIMOUSINE EXIT WORKS, MAY REMOVE VARIANT NEXT UPDATE]",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick": "The Liability - Midday Hangover",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "The Liability - Midday Hangover",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": "The Drop - Sunset",
