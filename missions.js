@@ -358,5 +358,6 @@ export const offbydefault = [
         "assembly:/_pro/scenes/missions/trapped/hot_trapped_hb.brick",
         "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_hb.brick",
         "assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick",
-        "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick"
+        "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick",
+        "assembly:/_pro/scenes/missions/ancestral/hot_filur.brick"
 ]
