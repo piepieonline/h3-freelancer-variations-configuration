@@ -331,7 +331,9 @@ export const hardbricks = {
     "4a34f12a-ab98-4dc5-9262-c600193b2629": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "ee67660e-4bd6-4743-9163-40331056f690": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
-    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"]
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "37be638c-4265-4622-9326-8835b8535180": ["assembly:/_pro/scenes/missions/theark/difficulty_hard_sgail_shared.brick"],
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/missions/theark/difficulty_hard_sgail_shared.brick"]
 }
 
 export const offbydefault = [
