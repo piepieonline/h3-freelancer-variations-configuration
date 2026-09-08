@@ -1,4 +1,4 @@
-export const currentFileVersion = 1.12;
+export const currentFileVersion = 1.13;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island/Cuba",
@@ -166,6 +166,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_hot_hilo.brick": "Vanilla",
+    "assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_mild.brick": "The Herbalist (Sunset)",
+    "assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick": "The Herbalist (Sunset)",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/mission_mild_chess.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/mission_hot_chess.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson.brick": "The Ascensionist (Midday)",
@@ -182,7 +184,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/ancestral/tod_vesper_night.brick": "The Procurers - Night",
     "assembly:/_pro/scenes/missions/ancestral/mild_filur.brick": "The Harbinger",
     "assembly:/_pro/scenes/missions/ancestral/mild_filur_outbreak.brick": "The Harbinger (Outbreak) - Rainy Night",
-    "assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": "The Harbinger [WARNING: MOST PRESTIGE OBJECTIVES FAIL, ONLY LIMO EXIT EVER WORKS]",
+    "assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": "The Harbinger [WARNING: SOME PRESTIGE OBJECTIVES FAIL, ONLY LIMO EXIT EVER WORKS]",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/mission_mild_radler.brick": "The Liability - Midday Hangover",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_et_midday.brick": "The Liability - Midday Hangover",
     "assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset_mild.brick": "The Drop - Sunset",
@@ -227,12 +229,12 @@ export const brickToVersion = {
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4|assembly:/_pro/scenes/missions/trapped/hot_trapped_day_ny.brick": 1.10,
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/trapped/hot_trapped_hb.brick": 1.10,
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/trapped/hot_trapped_day_hb.brick": 1.10,
-    "dac2d6fd-4f25-4a63-b338-aef458c05a7f|assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick": 1.10,
-    "6efd360a-5f78-44ac-9823-df077018c2b3|assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick": 1.10,
     "47d10233-0008-4f34-abd2-a84ca2bb7530|assembly:/_pro/scenes/missions/coastaltown/mission_hot_icon.brick": 1.10,
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd|assembly:/_pro/scenes/missions/ancestral/mild_filur.brick": 1.12,
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd|assembly:/_pro/scenes/missions/ancestral/mild_filur_outbreak.brick": 1.12,
-    "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430|assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": 1.12
+    "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430|assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": 1.12,
+    "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_mild.brick": 1.13,
+    "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick": 1.13
     
 };
 
@@ -273,6 +275,7 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mild_midday.brick": "raccoon_midday",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_hot.brick": "tod_nighthaven",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "tod_nighthaven",
+    "assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick": "greentini_sunset_mild",
     "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson_hot.brick": "midday_gibson",
     "assembly:/_pro/scenes/missions/ancestral/hot_dgs_night.brick": "mild_dgs_night",
     "assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": "mild_filur",

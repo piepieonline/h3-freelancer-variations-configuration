@@ -142,14 +142,12 @@ export const missions = {
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": [
         "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick",
         "assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick",
-        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick",
-        "assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick"
+        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
     ],
     "6efd360a-5f78-44ac-9823-df077018c2b3": [
         "assembly:/_pro/scenes/missions/skunk/ass_night.brick",
         "assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick",
-        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick",
-        "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick"
+        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
     ],
     "37be638c-4265-4622-9326-8835b8535180": [
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick",
@@ -179,12 +177,14 @@ export const missions = {
     ],
     "f075fbc3-79ef-4e42-9326-9572f712a298": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick",
+        "assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_mild.brick",
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick",
         "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven.brick",
         "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick"
     ],
     "d2419fe4-ea72-4e61-b91b-bb39706f551d": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_hot.brick",
+        "assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick",
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_hot_hilo.brick",
         "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick",
         "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick"
