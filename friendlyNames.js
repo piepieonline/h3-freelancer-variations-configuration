@@ -234,7 +234,7 @@ export const brickToVersion = {
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd|assembly:/_pro/scenes/missions/ancestral/mild_filur_outbreak.brick": 1.12,
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430|assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": 1.12,
     "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_mild.brick": 1.13,
-    "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick": 1.13
+    "d2419fe4-ea72-4e61-b91b-bb39706f551d|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick": 1.13
     
 };
 
