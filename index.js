@@ -1,5 +1,5 @@
 (async () => {
-    const { missions, missionstoclear, missionvrtoreset, hardbricks, offbydefault } = await import("./missions.js");
+    const { missions, missionstoclear, missionvrtoreset, hardbricks, offbydefault, extraDestinations } = await import("./missions.js");
     const { currentFileVersion, guidToName, brickToName, brickToVersion, brickToImage, displayOrder } = await import("./friendlyNames.js");
 
     let configFileVersion = currentFileVersion;
@@ -84,6 +84,7 @@
     window.generateOnline = () => {
         var missionJson = {
             "patches": [],
+            "extraDestinations": extraDestinations,
             configFileVersion: currentFileVersion
         };
 
