@@ -1,46 +1,52 @@
-export const currentFileVersion = 1.13;
+export const currentFileVersion = 1.14;
 
 export const guidToName = {
-    "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island/Cuba",
+    "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
     "76fd7c40-83a0-48c9-be49-cef107583eae": "Hokkaido",
     "ebb8cdab-e521-4ba8-9288-d697b1aaaba7": "Paris",
     "d40076af-74d1-484e-8936-1367d5b107ce": "Bangkok",
     "107100ca-f910-49a9-ac13-59d0bb5691a4": "Colombia",
-    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": "Colorado/Romania",
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": "Colorado",
     "d4719601-83ce-4ca9-83cd-5164331d643f": "Sapienza",
     "84727ec8-7f13-4c00-94c1-b5c60a8a181f": "Dubai",
     "cd1c3479-e3e4-42c3-a9a4-bfedd2ea31f9": "Dubai (Showdown)",
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd": "Dartmoor",
     "0ffe44ea-d241-49ec-835c-74d5714db343": "Berlin",
-    "be4714d4-c7a5-4c21-a63a-89c5643965e7": "New York/Romania",
-    "f075fbc3-79ef-4e42-9326-9572f712a298": "Haven Island/Cuba",
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7": "New York",
+    "f075fbc3-79ef-4e42-9326-9572f712a298": "Haven Island",
     "59c15d1e-c65e-4394-9906-46cdeb944c64": "Mumbai",
     "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": "Chongqing",
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": "Whittleton Creek",
-    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": "Hawke's Bay/Hantu Port/Romania",
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": "Hawke's Bay",
     "4a34f12a-ab98-4dc5-9262-c600193b2629": "Miami/Yacht",
-    "37be638c-4265-4622-9326-8835b8535180": "Isle of Sgàil/Hantu Port",
+    "37be638c-4265-4622-9326-8835b8535180": "Isle of Sgàil",
     "ff0264f0-c9b8-476f-b8f2-a5762d077a09": "Marrakesh",
     "89500fa3-2466-4c52-8b90-9890cc5039ee": "Mendoza",
-    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": "Ambrose Island/Cuba (Showdown)",
+    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": "Ambrose Island (Showdown)",
     "65659b19-fb1a-4a14-b074-65227ffac128": "Hokkaido (Showdown)",
     "c945b720-12c4-4f62-8026-4b4011a67dff": "Paris (Showdown)",
     "2f562dba-2b14-42f3-b9fb-eb72e79450ba": "Bangkok (Showdown)",
     "aab7a569-cead-40b8-81b5-c1605070b366": "Colombia (Showdown)",
-    "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": "Colorado/Romania (Showdown)",
+    "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": "Colorado (Showdown)",
     "47d10233-0008-4f34-abd2-a84ca2bb7530": "Sapienza (Showdown)",
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": "Dartmoor (Showdown)",
     "c147e93f-2fa6-4618-a84e-d929c5d3d391": "Berlin (Showdown)",
-    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": "New York/Romania (Showdown)",
-    "d2419fe4-ea72-4e61-b91b-bb39706f551d": "Haven Island/Cuba (Showdown)",
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": "New York (Showdown)",
+    "d2419fe4-ea72-4e61-b91b-bb39706f551d": "Haven Island (Showdown)",
     "0d2a243a-f140-4be5-bfe7-e151878ec88e": "Mumbai (Showdown)",
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": "Chongqing (Showdown)",
     "6efd360a-5f78-44ac-9823-df077018c2b3": "Whittleton Creek (Showdown)",
-    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": "Hawke's Bay/Hantu Port/Romania (Showdown)",
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": "Hawke's Bay (Showdown)",
     "ee67660e-4bd6-4743-9163-40331056f690": "Miami/Yacht (Showdown)",
-    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": "Isle of Sgàil/Hantu Port (Showdown)",
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": "Isle of Sgàil (Showdown)",
     "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": "Marrakesh (Showdown)",
-    "8caa8f0e-ac39-4088-95c1-42075afe8213": "Mendoza (Showdown)"
+    "8caa8f0e-ac39-4088-95c1-42075afe8213": "Mendoza (Showdown)",
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44": "Hantu Port",
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117": "Hantu Port (Showdown)",
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a": "Sierra Cantante",
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5": "Sierra Cantante (Showdown)",
+    "f128650c-96db-4a55-ab28-95bc2983687e": "Carpathian Mountains",
+    "be9e444d-f58c-4c45-8d33-745dce403ef2": "Carpathian Mountains (Showdown)"
 };
 
 export const brickToName = {
@@ -89,8 +95,6 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/colorado_2/mission_hot_spades.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/colorado_2/gamechanger_wild_card_daisy.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick": "Midday",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick": "Romania - Passenger Train (Night)",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick": "Romania - Passenger Train (Day)",
     "assembly:/_pro/scenes/missions/trapped/hot_trapped.brick": "Romania - Passenger Train (Night)",
     "assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick": "Romania - Passenger Train (Day)",
     "assembly:/_pro/scenes/missions/hokkaido/mission_mild_flu.brick": "Patient Zero",
@@ -109,14 +113,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick": "The Politician - Sunrise",
     "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick": "The Politician - Midday",
     "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick": "The Politician - Sunset",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_hex.brick": "Hantu Port - Sunset [REQUIRES EXTERNAL MOD]",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick": "Hantu Port - Sunset [REQUIRES EXTERNAL MOD]",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick": "Hantu Port - Rainy Night [REQUIRES EXTERNAL MOD]",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick": "Hantu Port - Rainy Night [REQUIRES EXTERNAL MOD]",
     "assembly:/_pro/scenes/missions/trapped/mild_trapped.brick": "Romania - Passenger Train (Night)",
     "assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick": "Romania - Passenger Train (Day)",
-    "assembly:/_pro/scenes/missions/trapped/hot_trapped_hb.brick": "Romania - Passenger Train (Night)",
-    "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_hb.brick": "Romania - Passenger Train (Day)",
     "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/mission_mild_pinochle.brick": "Vanilla",
@@ -158,10 +156,6 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mild_midday.brick": "Stock Crash - Sunny Midday",
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_mild_blackjack.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_hot_blackjack.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick": "Romania - Passenger Train (Night)",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick": "Romania - Passenger Train (Day)",
-    "assembly:/_pro/scenes/missions/trapped/hot_trapped_ny.brick": "Romania - Passenger Train (Night)",
-    "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_ny.brick": "Romania - Passenger Train (Day)",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_hot.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "Night",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick": "Vanilla",
@@ -214,28 +208,30 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/rocky/mission_hot_poker.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
     "assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
-    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
     "assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day",
-    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day"
+    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day"
 };
 
 export const brickToVersion = {
-    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/trapped/hot_trapped.brick": 1.10,
-    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick": 1.10,
-    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4|assembly:/_pro/scenes/missions/trapped/hot_trapped_ny.brick": 1.10,
-    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4|assembly:/_pro/scenes/missions/trapped/hot_trapped_day_ny.brick": 1.10,
-    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/trapped/hot_trapped_hb.brick": 1.10,
-    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/trapped/hot_trapped_day_hb.brick": 1.10,
     "47d10233-0008-4f34-abd2-a84ca2bb7530|assembly:/_pro/scenes/missions/coastaltown/mission_hot_icon.brick": 1.10,
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd|assembly:/_pro/scenes/missions/ancestral/mild_filur.brick": 1.12,
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd|assembly:/_pro/scenes/missions/ancestral/mild_filur_outbreak.brick": 1.12,
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430|assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": 1.12,
     "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_mild.brick": 1.13,
-    "d2419fe4-ea72-4e61-b91b-bb39706f551d|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick": 1.13
-    
+    "d2419fe4-ea72-4e61-b91b-bb39706f551d|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick": 1.13,
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick": 1.14,
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick": 1.14,
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": 1.14,
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": 1.14,
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a|assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick": 1.14,
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a|assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick": 1.14,
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5|assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": 1.14,
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5|assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": 1.14,
+    "f128650c-96db-4a55-ab28-95bc2983687e|assembly:/_pro/scenes/missions/trapped/mild_trapped.brick": 1.14,
+    "f128650c-96db-4a55-ab28-95bc2983687e|assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick": 1.14,
+    "be9e444d-f58c-4c45-8d33-745dce403ef2|assembly:/_pro/scenes/missions/trapped/hot_trapped.brick": 1.14,
+    "be9e444d-f58c-4c45-8d33-745dce403ef2|assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick": 1.14
+
 };
 
 export const brickToImage = {
@@ -268,10 +264,6 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick": "ass_night",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": "mission_mild_hantu",
     "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": "mission_mild_hantu_night",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_hex.brick": "mission_mild_hantu",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick": "mission_mild_hantu_night",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick": "mission_mild_hantu",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick": "mission_mild_hantu_night",
     "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mild_midday.brick": "raccoon_midday",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_hot.brick": "tod_nighthaven",
     "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick": "tod_nighthaven",
@@ -293,23 +285,11 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/rocky/hot_sunset_poker.brick": "tod_sunsetambrose",
     "assembly:/_pro/scenes/missions/rocky/mild_midday_poker.brick": "tod_middayambrose",
     "assembly:/_pro/scenes/missions/rocky/hot_midday_poker.brick": "tod_middayambrose",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick": "mild_trapped",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick": "mild_trapped_day",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick": "mild_trapped",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick": "mild_trapped_day",
-    "assembly:/_pro/scenes/missions/trapped/hot_trapped_ny.brick": "mild_trapped",
-    "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_ny.brick": "mild_trapped_day",
-    "assembly:/_pro/scenes/missions/trapped/hot_trapped_hb.brick": "mild_trapped",
-    "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_hb.brick": "mild_trapped_day",
     "assembly:/_pro/scenes/missions/trapped/hot_trapped.brick": "mild_trapped",
     "assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick": "mild_trapped_day",
     "assembly:/_pro/scenes/missions/theark/sunset_disruptor_mild.brick": "sunset_disruptor",
     "assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": "mission_mild_cuba",
-    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven.brick": "mission_mild_cuba",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick": "mission_mild_cuba",
     "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": "mild_cuba_day",
-    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick": "mild_cuba_day",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick": "mild_cuba_day",
     "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick": "mild_pumpkin"
 };
 
@@ -334,7 +314,16 @@ export const displayOrder = [
 
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5",
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd",
-    
+
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44",
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117",
+
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a",
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5",
+
+    "f128650c-96db-4a55-ab28-95bc2983687e",
+    "be9e444d-f58c-4c45-8d33-745dce403ef2",
+
     "4a34f12a-ab98-4dc5-9262-c600193b2629",
     "ee67660e-4bd6-4743-9163-40331056f690",
 

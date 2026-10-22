@@ -58,16 +58,12 @@ export const missions = {
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": [
         "assembly:/_pro/scenes/missions/colorado_2/ets_night_mild.brick",
         "assembly:/_pro/scenes/missions/colorado_2/mission_mild_rabies.brick",
-        "assembly:/_pro/scenes/missions/colorado_2/mission_mild_spades.brick",
-        "assembly:/_pro/scenes/missions/trapped/mild_trapped_colorado.brick",
-        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_colorado.brick"
+        "assembly:/_pro/scenes/missions/colorado_2/mission_mild_spades.brick"
     ],
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": [
         "assembly:/_pro/scenes/missions/colorado_2/ets_night.brick",
         "assembly:/_pro/scenes/missions/colorado_2/mission_hot_rabies.brick",
-        "assembly:/_pro/scenes/missions/colorado_2/mission_hot_spades.brick",
-        "assembly:/_pro/scenes/missions/trapped/hot_trapped.brick",
-        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick"
+        "assembly:/_pro/scenes/missions/colorado_2/mission_hot_spades.brick"
     ],
      "76fd7c40-83a0-48c9-be49-cef107583eae": [
         "assembly:/_pro/scenes/missions/hokkaido/mission_mild_mamushi.brick",
@@ -88,21 +84,37 @@ export const missions = {
         "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunrise.brick",
         "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunset.brick",
         "assembly:/_pro/scenes/missions/sheep/mild_adonis_midday.brick",
-        "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick",
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_hex.brick",
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick",
-        "assembly:/_pro/scenes/missions/trapped/mild_trapped.brick",
-        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick"
+        "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick"
     ],
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": [
         "assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick",
         "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick",
         "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick",
-        "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick",
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick",
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick",
-        "assembly:/_pro/scenes/missions/trapped/hot_trapped_hb.brick",
-        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_hb.brick"
+        "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick"
+    ],
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44": [
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick",
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick"
+    ],
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117": [
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick",
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick"
+    ],
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a": [
+        "assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick",
+        "assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick"
+    ],
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5": [
+        "assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick",
+        "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick"
+    ],
+    "f128650c-96db-4a55-ab28-95bc2983687e": [
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped.brick",
+        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick"
+    ],
+    "be9e444d-f58c-4c45-8d33-745dce403ef2": [
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped.brick",
+        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick"
     ],
     "4a34f12a-ab98-4dc5-9262-c600193b2629": [
         "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick",
@@ -150,44 +162,32 @@ export const missions = {
         "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
     ],
     "37be638c-4265-4622-9326-8835b8535180": [
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick",
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick",
         "assembly:/_pro/scenes/missions/theark/sunset_disruptor_mild.brick",
         "assembly:/_pro/scenes/missions/theark/tod_day_ets_mild.brick",
         "assembly:/_pro/scenes/missions/theark/mission_mild_whist.brick"
     ],
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": [
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick",
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick",
         "assembly:/_pro/scenes/missions/theark/sunset_disruptor.brick",
         "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick",
         "assembly:/_pro/scenes/missions/theark/mission_hot_whist.brick"
     ],
     "be4714d4-c7a5-4c21-a63a-89c5643965e7": [
         "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_mild_blackjack.brick",
-        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mild_midday.brick",
-        "assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick",
-        "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick"
+        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mild_midday.brick"
     ],
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": [
         "assembly:/_pro/scenes/missions/greedy/mission_raccoon/mission_hot_blackjack.brick",
-        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick",
-        "assembly:/_pro/scenes/missions/trapped/hot_trapped_ny.brick",
-        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_ny.brick"
+        "assembly:/_pro/scenes/missions/greedy/mission_raccoon/raccoon_midday.brick"
     ],
     "f075fbc3-79ef-4e42-9326-9572f712a298": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_mild.brick",
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_mild.brick",
-        "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick",
-        "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven.brick",
-        "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick"
+        "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_mild_hilo.brick"
     ],
     "d2419fe4-ea72-4e61-b91b-bb39706f551d": [
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night_hot.brick",
         "assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick",
-        "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_hot_hilo.brick",
-        "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick",
-        "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick"
+        "assembly:/_pro/scenes/missions/opulent/mission_stingray/mission_hot_hilo.brick"
     ],
     "84727ec8-7f13-4c00-94c1-b5c60a8a181f": [
         "assembly:/_pro/scenes/missions/golden/mission_gecko/midday_gibson.brick",
@@ -251,16 +251,12 @@ export const missions = {
      "060a48f0-117b-4b22-a165-111fd4a5b745": [
         "assembly:/_pro/scenes/missions/rocky/mild_midday_poker.brick",
         "assembly:/_pro/scenes/missions/rocky/mild_sunset_poker.brick",
-        "assembly:/_pro/scenes/missions/rocky/mission_mild_poker.brick",
-        "assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick",
-        "assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick"
+        "assembly:/_pro/scenes/missions/rocky/mission_mild_poker.brick"
     ],
     "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": [
         "assembly:/_pro/scenes/missions/rocky/hot_midday_poker.brick",
         "assembly:/_pro/scenes/missions/rocky/hot_sunset_poker.brick",
-        "assembly:/_pro/scenes/missions/rocky/mission_hot_poker.brick",
-        "assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick",
-        "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick"
+        "assembly:/_pro/scenes/missions/rocky/mission_hot_poker.brick"
     ]
 }
 
@@ -286,8 +282,13 @@ export const missionstoclear = {
     "4a34f12a-ab98-4dc5-9262-c600193b2629": true,
     "ee67660e-4bd6-4743-9163-40331056f690": true,
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": true,
-    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": true
-    
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": true,
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44": true,
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117": true,
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a": true,
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5": true,
+    "f128650c-96db-4a55-ab28-95bc2983687e": true,
+    "be9e444d-f58c-4c45-8d33-745dce403ef2": true
 }
 
 export const missionvrtoreset = {
@@ -312,7 +313,13 @@ export const missionvrtoreset = {
     "4a34f12a-ab98-4dc5-9262-c600193b2629": true,
     "ee67660e-4bd6-4743-9163-40331056f690": true,
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": true,
-    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": true
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": true,
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44": true,
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117": true,
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a": true,
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5": true,
+    "f128650c-96db-4a55-ab28-95bc2983687e": true,
+    "be9e444d-f58c-4c45-8d33-745dce403ef2": true
 }
 
 export const hardbricks = {
@@ -333,32 +340,18 @@ export const hardbricks = {
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
     "37be638c-4265-4622-9326-8835b8535180": ["assembly:/_pro/scenes/missions/theark/difficulty_hard_sgail_shared.brick"],
-    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/missions/theark/difficulty_hard_sgail_shared.brick"]
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": ["assembly:/_pro/scenes/missions/theark/difficulty_hard_sgail_shared.brick"],
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44": ["assembly:/_pro/scenes/missions/theark/difficulty_hard_sgail_shared.brick"],
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117": ["assembly:/_pro/scenes/missions/theark/difficulty_hard_sgail_shared.brick"],
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "f128650c-96db-4a55-ab28-95bc2983687e": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"],
+    "be9e444d-f58c-4c45-8d33-745dce403ef2": ["assembly:/_pro/scenes/missions/thefacility/outfits_prologue.brick"]
 }
 
 export const offbydefault = [
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick",
     "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_hex.brick",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night_hex.brick",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_hex.brick",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night_hex.brick",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped.brick",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_ny.brick",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day_ny.brick",
-    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven.brick",
-    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_haven_day.brick",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven.brick",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_haven_day.brick",
     "assembly:/_pro/scenes/missions/hokkaido/blossom.brick",
-        "assembly:/_pro/scenes/missions/trapped/hot_trapped_ny.brick",
-        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_ny.brick",
-        "assembly:/_pro/scenes/missions/trapped/hot_trapped_hb.brick",
-        "assembly:/_pro/scenes/missions/trapped/hot_trapped_day_hb.brick",
         "assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick",
         "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick",
         "assembly:/_pro/scenes/missions/ancestral/hot_filur.brick"
