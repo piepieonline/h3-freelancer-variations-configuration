@@ -1,4 +1,4 @@
-export const currentFileVersion = 1.14;
+export const currentFileVersion = 2.0;
 
 export const guidToName = {
     "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
