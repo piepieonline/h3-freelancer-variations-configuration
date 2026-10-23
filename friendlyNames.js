@@ -219,18 +219,18 @@ export const brickToVersion = {
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430|assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": 1.12,
     "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_mild.brick": 1.13,
     "d2419fe4-ea72-4e61-b91b-bb39706f551d|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick": 1.13,
-    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick": 1.14,
-    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick": 1.14,
-    "c2227b36-db89-4e79-bb1b-daf24a4b7117|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": 1.14,
-    "c2227b36-db89-4e79-bb1b-daf24a4b7117|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": 1.14,
-    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a|assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick": 1.14,
-    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a|assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick": 1.14,
-    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5|assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": 1.14,
-    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5|assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": 1.14,
-    "f128650c-96db-4a55-ab28-95bc2983687e|assembly:/_pro/scenes/missions/trapped/mild_trapped.brick": 1.14,
-    "f128650c-96db-4a55-ab28-95bc2983687e|assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick": 1.14,
-    "be9e444d-f58c-4c45-8d33-745dce403ef2|assembly:/_pro/scenes/missions/trapped/hot_trapped.brick": 1.14,
-    "be9e444d-f58c-4c45-8d33-745dce403ef2|assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick": 1.14
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick": 2.0,
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick": 2.0,
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": 2.0,
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": 2.0,
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a|assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick": 2.0,
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a|assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick": 2.0,
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5|assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": 2.0,
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5|assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": 2.0,
+    "f128650c-96db-4a55-ab28-95bc2983687e|assembly:/_pro/scenes/missions/trapped/mild_trapped.brick": 2.0,
+    "f128650c-96db-4a55-ab28-95bc2983687e|assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick": 2.0,
+    "be9e444d-f58c-4c45-8d33-745dce403ef2|assembly:/_pro/scenes/missions/trapped/hot_trapped.brick": 2.0,
+    "be9e444d-f58c-4c45-8d33-745dce403ef2|assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick": 2.0
 
 };
 
