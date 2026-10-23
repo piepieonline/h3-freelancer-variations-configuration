@@ -370,7 +370,9 @@ export const extraDestinations = [
         "name": "Hawke's Bay",
         "mildContractId": "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5",
         "hotContractId": "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd",
-        "scenePath": "assembly:/_pro/scenes/missions/sheep/scene_hex.entity"
+        "scenePath": "assembly:/_pro/scenes/missions/sheep/scene_hex.entity",
+        "destinationEntityId": "feed682949452ec7",
+        "worldMapEntryId": "53395ceeef815992"
     },
     {
         "travelReceiverId": "a022452b0ac243bc",
@@ -378,6 +380,8 @@ export const extraDestinations = [
         "mildContractId": "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a",
         "hotContractId": "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5",
         "scenePath": "assembly:/_pro/scenes/missions/cuba/scene_cuba_freelancer.entity",
+        "destinationEntityId": "a022682949452ec7",
+        "worldMapEntryId": "a022586ef119fc13",
         "destination": 21,
         "locationNames": {
             "city": "UI_LOCATION_PARENT_CUBA_CITY",
@@ -391,6 +395,8 @@ export const extraDestinations = [
         "mildContractId": "f128650c-96db-4a55-ab28-95bc2983687e",
         "hotContractId": "be9e444d-f58c-4c45-8d33-745dce403ef2",
         "scenePath": "assembly:/_pro/scenes/missions/trapped/scene_romania_freelancer.entity",
+        "destinationEntityId": "a024682949452ec7",
+        "worldMapEntryId": "a024bd7a9ba14eb2",
         "destination": 22,
         "locationNames": {
             "city": "0xC2B4AFE7",
@@ -404,6 +410,8 @@ export const extraDestinations = [
         "mildContractId": "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44",
         "hotContractId": "c2227b36-db89-4e79-bb1b-daf24a4b7117",
         "scenePath": "assembly:/_pro/scenes/missions/salty/scene_hantu_freelancer.entity",
+        "destinationEntityId": "a021682949452ec7",
+        "worldMapEntryId": "a0211df768a064a4",
         "destination": 23,
         "locationNames": {
             "city": "UI_LOCATION_PARENT_SALTY_CITY",
