@@ -5,6 +5,14 @@
     let configFileVersion = currentFileVersion;
     const selectedMissions = {};
 
+    const minimumEnabledLocations = 6;
+
+    // Pair each mild contract with its hot contract, which shares its name plus a " (Showdown)" suffix
+    const locationPairs = Object.keys(guidToName)
+        .filter(mild => missions[mild] && !guidToName[mild].endsWith(' (Showdown)'))
+        .map(mild => ({ mild, hot: Object.keys(guidToName).find(hot => guidToName[hot] === `${guidToName[mild]} (Showdown)`) }))
+        .filter(pair => pair.hot && missions[pair.hot]);
+
     const radioParent = document.getElementById('radio-parent');
     radioParent.innerHTML = '';
 
@@ -64,7 +72,36 @@
     window.modifySelection = (mission, brick) => {
         selectedMissions[mission][brick] = document.getElementById(`${mission}|${brick}`).checked;
         document.getElementById(`${mission}-selected-counter`).innerText = Object.values(selectedMissions[mission]).filter(val => val).length;
+        validateSelection();
     };
+
+    // A location is only enabled if both its mild and hot contracts have at least one variation selected
+    const hasSelectedBrick = (mission) => Object.values(selectedMissions[mission]).some(val => val);
+
+    function validateSelection() {
+        const enabledCount = locationPairs.filter(pair => hasSelectedBrick(pair.mild) && hasSelectedBrick(pair.hot)).length;
+        const partialLocations = locationPairs
+            .filter(pair => hasSelectedBrick(pair.mild) !== hasSelectedBrick(pair.hot))
+            .map(pair => guidToName[pair.mild]);
+
+        // Dim both halves of a location when either half has nothing selected
+        locationPairs.forEach(pair => {
+            const isDisabled = !hasSelectedBrick(pair.mild) || !hasSelectedBrick(pair.hot);
+            document.getElementById(pair.mild).classList.toggle('location-disabled', isDisabled);
+            document.getElementById(pair.hot).classList.toggle('location-disabled', isDisabled);
+        });
+
+        const isValid = enabledCount >= minimumEnabledLocations;
+        document.getElementById('generate-button').disabled = !isValid;
+
+        const status = document.getElementById('selection-status');
+        status.className = isValid ? 'text-muted' : 'text-danger';
+        status.innerText = `${enabledCount}/${locationPairs.length} locations enabled (minimum ${minimumEnabledLocations}). A location needs at least one Standard and one Showdown variation selected.` +
+            (partialLocations.length ? ` Disabled due to missing either a Standard or Showdown variation: ${partialLocations.join(', ')}.` : '');
+
+        return isValid;
+    }
+    validateSelection();
 
     window.generatePeacock = () => {
         var missionJson = {};
@@ -82,6 +119,8 @@
     };
 
     window.generateOnline = () => {
+        if(!validateSelection()) return;
+
         var missionJson = {
             "patches": [],
             "extraDestinations": extraDestinations,
