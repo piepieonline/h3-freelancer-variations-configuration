@@ -92,13 +92,15 @@ export const missions = {
         "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunrise.brick",
         "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunset.brick",
         "assembly:/_pro/scenes/missions/sheep/mild_adonis_midday.brick",
-        "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick"
+        "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick",
+        "assembly:/_pro/scenes/missions/sheep/mild_shamrock.brick"
     ],
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": [
         "assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick",
         "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick",
         "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick",
-        "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick"
+        "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick",
+        "assembly:/_pro/scenes/missions/sheep/hot_shamrock.brick"
     ],
     "4a34f12a-ab98-4dc5-9262-c600193b2629": [
         "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick",

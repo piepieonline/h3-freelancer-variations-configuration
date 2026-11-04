@@ -50,6 +50,10 @@ export const guidToName = {
 };
 
 export const brickToName = {
+    "assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
+    "assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
+    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day",
+    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day",
     "assembly:/_pro/scenes/missions/paris/thebanker_mild.brick": "Christmas + The Banker",
     "assembly:/_pro/scenes/missions/paris/thebanker_hot.brick": "Christmas + The Banker",
     "assembly:/_pro/scenes/missions/paris/gamechangers_wild_card_juniper.brick": "Vanilla",
@@ -106,15 +110,15 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/hokkaido/blossom.brick": "Blossom Festival [REQUIRES EXTERNAL MOD 'Blossom Fest - A Fundraiser']",
     "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick": "Nightcall - Night",
     "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick": "The Politician - Night",
-    "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunrise.brick": "The Politician - Sunrise",
+    "assembly:/_pro/scenes/missions/sheep/mild_shamrock.brick": "Before The Host - Morning",
+    "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunrise.brick": "The Politician - Morning",
     "assembly:/_pro/scenes/missions/sheep/mild_adonis_midday.brick": "The Politician - Midday",
     "assembly:/_pro/scenes/missions/sheep/mild_adonis_sunset.brick": "The Politician - Sunset",
     "assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick": "The Politician - Night",
-    "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick": "The Politician - Sunrise",
+    "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick": "The Politician - Morning",
     "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick": "The Politician - Midday",
     "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick": "The Politician - Sunset",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped.brick": "Romania - Passenger Train (Night)",
-    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick": "Romania - Passenger Train (Day)",
+    "assembly:/_pro/scenes/missions/sheep/hot_shamrock.brick": "Before The Host - Morning",
     "assembly:/_pro/scenes/missions/miami/tod_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/mild_night_ass.brick": "A Silver Tongue - Night",
     "assembly:/_pro/scenes/missions/miami/mission_mild_pinochle.brick": "Vanilla",
@@ -206,10 +210,8 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/rocky/hot_sunset_poker.brick": "Sunset",
     "assembly:/_pro/scenes/missions/rocky/mission_mild_poker.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/rocky/mission_hot_poker.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/thefacility/mission_mild_cuba.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
-    "assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Night",
-    "assembly:/_pro/scenes/missions/thefacility/mild_cuba_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day",
-    "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": "Sierra Cantante (Cuban Airfield/The Final Test)- Day"
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped.brick": "Romania - Passenger Train (Night)",
+    "assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick": "Romania - Passenger Train (Day)"
 };
 
 export const brickToVersion = {
@@ -230,7 +232,9 @@ export const brickToVersion = {
     "f128650c-96db-4a55-ab28-95bc2983687e|assembly:/_pro/scenes/missions/trapped/mild_trapped.brick": 2.0,
     "f128650c-96db-4a55-ab28-95bc2983687e|assembly:/_pro/scenes/missions/trapped/mild_trapped_day.brick": 2.0,
     "be9e444d-f58c-4c45-8d33-745dce403ef2|assembly:/_pro/scenes/missions/trapped/hot_trapped.brick": 2.0,
-    "be9e444d-f58c-4c45-8d33-745dce403ef2|assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick": 2.0
+    "be9e444d-f58c-4c45-8d33-745dce403ef2|assembly:/_pro/scenes/missions/trapped/hot_trapped_day.brick": 2.0,
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/sheep/mild_shamrock.brick": 2.0,
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_shamrock.brick": 2.0
 
 };
 
