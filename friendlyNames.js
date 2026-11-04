@@ -253,6 +253,7 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick": "mild_adonis",
     "assembly:/_pro/scenes/missions/sheep/mission_hot_adonis.brick": "mild_adonis",
     "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick": "mild_adonis",
+    "assembly:/_pro/scenes/missions/sheep/hot_shamrock.brick": "mild_shamrock",
     "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunrise.brick": "mild_adonis_sunrise",
     "assembly:/_pro/scenes/missions/sheep/hot_adonis_sunset.brick": "mild_adonis_sunset",
     "assembly:/_pro/scenes/missions/sheep/hot_adonis_midday.brick": "mild_adonis_midday",
