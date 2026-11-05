@@ -238,7 +238,9 @@ export const brickToVersion = {
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5|assembly:/_pro/scenes/missions/sheep/mild_shamrock.brick": 2.0,
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd|assembly:/_pro/scenes/missions/sheep/hot_shamrock.brick": 2.0,
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a|assembly:/_pro/scenes/missions/colorado_2/mission_mild_hay.brick": 2.0,
-    "4a95baa5-6ad6-43c8-ae3e-be8449d578ec|assembly:/_pro/scenes/missions/colorado_2/mission_hot_hay.brick": 2.0
+    "4a95baa5-6ad6-43c8-ae3e-be8449d578ec|assembly:/_pro/scenes/missions/colorado_2/mission_hot_hay.brick": 2.0,
+    "dac2d6fd-4f25-4a63-b338-aef458c05a7f|assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick": 2.0,
+    "6efd360a-5f78-44ac-9823-df077018c2b3|assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick": 2.0
 
 };
 

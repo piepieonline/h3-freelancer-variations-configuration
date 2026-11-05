@@ -142,12 +142,14 @@ export const missions = {
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": [
         "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick",
         "assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick",
-        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
+        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick",
+        "assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick"
     ],
     "6efd360a-5f78-44ac-9823-df077018c2b3": [
         "assembly:/_pro/scenes/missions/skunk/ass_night.brick",
         "assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick",
-        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
+        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick",
+        "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick"
     ],
     "37be638c-4265-4622-9326-8835b8535180": [
         "assembly:/_pro/scenes/missions/theark/sunset_disruptor_mild.brick",
