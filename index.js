@@ -163,7 +163,7 @@
                     var brick = checkbox.id.split('|')[1];
                     var isNew = brickToVersion[`${mission.id}|${brick}`] > configFileVersion;
 
-                    var includeBrick = mission.bricks.includes(brick) || isNew;
+                    var includeBrick = mission.bricks.includes(brick) || (isNew && !offbydefault.includes(brick));
 
                     checkbox.checked = includeBrick;
                     includeBrick ? onCount++ : offCount++;
