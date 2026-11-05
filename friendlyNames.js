@@ -107,7 +107,7 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/hokkaido/hsf_night.brick": "Snow Festival + ETs (Night)",
     "assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick": "Day",
     "assembly:/_pro/scenes/missions/hokkaido/override_shogi.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/hokkaido/blossom.brick": "Blossom Festival [REQUIRES EXTERNAL MOD 'Blossom Fest - A Fundraiser']",
+    "assembly:/_pro/scenes/missions/hokkaido/blossom.brick": "Blossom Festival",
     "assembly:/_pro/scenes/missions/sheep/mild_sheep.brick": "Nightcall - Night",
     "assembly:/_pro/scenes/missions/sheep/mild_adonis.brick": "The Politician - Night",
     "assembly:/_pro/scenes/missions/sheep/mild_shamrock.brick": "Before The Host - Morning",
@@ -139,17 +139,17 @@ export const brickToName = {
     "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick": "A Bitter Pill - Night",
     "assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick": "The Serial Killer - Sunset",
     "assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick": "The Serial Killer - Sunset",
-    "assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick": "Halloween (REQUIRES EXTERNAL MOD 'Halloween At Whittleton Creek' from Nexus)",
-    "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick": "Halloween (REQUIRES EXTERNAL MOD 'Halloween At Whittleton Creek' from Nexus)",
+    "assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick": "Halloween",
+    "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick": "Halloween",
     "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick": "Vanilla",
     "assembly:/_pro/scenes/missions/mumbai/mumbai_night.brick": "Night",
     "assembly:/_pro/scenes/missions/mumbai/mumbai_day.brick": "Day",
     "assembly:/_pro/scenes/missions/mumbai/mission_mild_kingcobra.brick": "Illusions of Grandeur",
     "assembly:/_pro/scenes/missions/mumbai/gamechanger_monkshood_holyman_override.brick": "Vanilla",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick": "Hantu Port - Sunset [REQUIRES EXTERNAL MOD]",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": "Hantu Port - Sunset [REQUIRES EXTERNAL MOD]",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick": "Hantu Port - Rainy Night [REQUIRES EXTERNAL MOD]",
-    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": "Hantu Port - Rainy Night [REQUIRES EXTERNAL MOD]",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick": "Hantu Port - Sunset",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": "Hantu Port - Sunset",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick": "Hantu Port - Rainy Night",
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": "Hantu Port - Rainy Night",
     "assembly:/_pro/scenes/missions/theark/tod_day_ets_mild.brick": "Sgail - ETs (Day)",
     "assembly:/_pro/scenes/missions/theark/tod_day_ets.brick": "Sgail - ETs (Day)",
     "assembly:/_pro/scenes/missions/theark/sunset_disruptor_mild.brick": "Sgail - The Disruptor (Sunset)",
@@ -296,6 +296,16 @@ export const brickToImage = {
     "assembly:/_pro/scenes/missions/thefacility/mission_hot_cuba.brick": "mission_mild_cuba",
     "assembly:/_pro/scenes/missions/thefacility/hot_cuba_day.brick": "mild_cuba_day",
     "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick": "mild_pumpkin"
+};
+
+export const requiredExternalMod = {
+    "assembly:/_pro/scenes/missions/hokkaido/blossom.brick": { name: "Blossom Fest - A Fundraiser", url: "https://www.nexusmods.com/hitman3/mods/1021" },
+    "assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick": { name: "Halloween At Whittleton Creek", url: "https://www.nexusmods.com/hitman3/mods/1089" },
+    "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick": { name: "Halloween At Whittleton Creek", url: "https://www.nexusmods.com/hitman3/mods/1089" },
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick": { name: "Sandbox Hantu Port", url: "https://www.nexusmods.com/hitman3/mods/588" },
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": { name: "Sandbox Hantu Port", url: "https://www.nexusmods.com/hitman3/mods/588" },
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick": { name: "Sandbox Hantu Port", url: "https://www.nexusmods.com/hitman3/mods/588" },
+    "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick": { name: "Sandbox Hantu Port", url: "https://www.nexusmods.com/hitman3/mods/588" }
 };
 
 export const displayOrder = [
