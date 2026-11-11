@@ -66,12 +66,14 @@ export const missions = {
     "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": [
         "assembly:/_pro/scenes/missions/colorado_2/ets_night_mild.brick",
         "assembly:/_pro/scenes/missions/colorado_2/mission_mild_rabies.brick",
-        "assembly:/_pro/scenes/missions/colorado_2/mission_mild_spades.brick"
+        "assembly:/_pro/scenes/missions/colorado_2/mission_mild_spades.brick",
+        "assembly:/_pro/scenes/missions/colorado_2/mission_mild_hay.brick"
     ],
     "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": [
         "assembly:/_pro/scenes/missions/colorado_2/ets_night.brick",
         "assembly:/_pro/scenes/missions/colorado_2/mission_hot_rabies.brick",
-        "assembly:/_pro/scenes/missions/colorado_2/mission_hot_spades.brick"
+        "assembly:/_pro/scenes/missions/colorado_2/mission_hot_spades.brick",
+        "assembly:/_pro/scenes/missions/colorado_2/mission_hot_hay.brick"
     ],
      "76fd7c40-83a0-48c9-be49-cef107583eae": [
         "assembly:/_pro/scenes/missions/hokkaido/mission_mild_mamushi.brick",
@@ -140,12 +142,14 @@ export const missions = {
     "dac2d6fd-4f25-4a63-b338-aef458c05a7f": [
         "assembly:/_pro/scenes/missions/skunk/ass_night_mild.brick",
         "assembly:/_pro/scenes/missions/skunk/elusive_sunset_mild.brick",
-        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
+        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick",
+        "assembly:/_pro/scenes/missions/skunk/mild_pumpkin.brick"
     ],
     "6efd360a-5f78-44ac-9823-df077018c2b3": [
         "assembly:/_pro/scenes/missions/skunk/ass_night.brick",
         "assembly:/_pro/scenes/missions/skunk/elusive_sunset.brick",
-        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick"
+        "assembly:/_pro/scenes/missions/skunk/override_solitaire.brick",
+        "assembly:/_pro/scenes/missions/skunk/hot_pumpkin.brick"
     ],
     "37be638c-4265-4622-9326-8835b8535180": [
         "assembly:/_pro/scenes/missions/theark/sunset_disruptor_mild.brick",
@@ -340,7 +344,9 @@ export const offbydefault = [
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick",
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick",
         "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick",
-        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick"
+        "assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu_night.brick",
+        "assembly:/_pro/scenes/missions/colorado_2/mission_mild_hay.brick",
+        "assembly:/_pro/scenes/missions/colorado_2/mission_hot_hay.brick"
 ]
 
 export const extraDestinations = [

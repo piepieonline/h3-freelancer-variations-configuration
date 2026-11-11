@@ -1,6 +1,6 @@
 (async () => {
     const { missions, missionstoclear, missionvrtoreset, hardbricks, offbydefault, extraDestinations } = await import("./missions.js");
-    const { currentFileVersion, guidToName, brickToName, brickToVersion, brickToImage, displayOrder } = await import("./friendlyNames.js");
+    const { currentFileVersion, guidToName, brickToName, brickToVersion, brickToImage, requiredExternalMod, displayOrder } = await import("./friendlyNames.js");
 
     let configFileVersion = currentFileVersion;
     const selectedMissions = {};
@@ -53,7 +53,7 @@
                     <div class="accordion-body">
                         <div class="form-check form-switch">
                             <input class="form-check-input variant-checkbox mission-${mission}" type="checkbox" role="switch" id="${mission}|${brick}" ${isEnabled ? 'checked' : ''} onchange="modifySelection('${mission}', '${brick}')">
-                            <label class="form-check-label" for="flexSwitchCheckChecked">${brickToName[brick]} <span style="color: grey">(${brick})</span></label>
+                            <label class="form-check-label" for="flexSwitchCheckChecked">${brickToName[brick]}${brick in requiredExternalMod ? ` <a href="${requiredExternalMod[brick].url}" target="_blank" rel="noopener">[REQUIRES EXTERNAL MOD${requiredExternalMod[brick].name ? ` - ${requiredExternalMod[brick].name}` : ''}]</a>` : ''} <span style="color: grey">(${brick})</span></label>
                             <span id="${mission}|${brick}|new" class="badge rounded-pill bg-success" style="display:${(isNewBrick ? 'initial' : 'none')};">New</span>
                         </div>
                     </div>
@@ -163,7 +163,7 @@
                     var brick = checkbox.id.split('|')[1];
                     var isNew = brickToVersion[`${mission.id}|${brick}`] > configFileVersion;
 
-                    var includeBrick = mission.bricks.includes(brick) || isNew;
+                    var includeBrick = mission.bricks.includes(brick) || (isNew && !offbydefault.includes(brick));
 
                     checkbox.checked = includeBrick;
                     includeBrick ? onCount++ : offCount++;
