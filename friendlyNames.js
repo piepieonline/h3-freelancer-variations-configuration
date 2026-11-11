@@ -1,52 +1,53 @@
 export const currentFileVersion = 2.0;
 
 export const guidToName = {
-    "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
-    "76fd7c40-83a0-48c9-be49-cef107583eae": "Hokkaido",
+   
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a": "Sierra Cantante",
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5": "Sierra Cantante (Showdown)",
     "ebb8cdab-e521-4ba8-9288-d697b1aaaba7": "Paris",
-    "d40076af-74d1-484e-8936-1367d5b107ce": "Bangkok",
-    "107100ca-f910-49a9-ac13-59d0bb5691a4": "Colombia",
-    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": "Colorado",
+    "c945b720-12c4-4f62-8026-4b4011a67dff": "Paris (Showdown)",
     "d4719601-83ce-4ca9-83cd-5164331d643f": "Sapienza",
+    "47d10233-0008-4f34-abd2-a84ca2bb7530": "Sapienza (Showdown)",
+    "ff0264f0-c9b8-476f-b8f2-a5762d077a09": "Marrakesh",
+    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": "Marrakesh (Showdown)",
+    "d40076af-74d1-484e-8936-1367d5b107ce": "Bangkok",
+    "2f562dba-2b14-42f3-b9fb-eb72e79450ba": "Bangkok (Showdown)",
+    "1a98c48e-d618-4d4d-b17b-90ca3b180d2a": "Colorado",
+    "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": "Colorado (Showdown)",
+    "76fd7c40-83a0-48c9-be49-cef107583eae": "Hokkaido",
+    "65659b19-fb1a-4a14-b074-65227ffac128": "Hokkaido (Showdown)",
+    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": "Hawke's Bay",
+    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": "Hawke's Bay (Showdown)",
+    "4a34f12a-ab98-4dc5-9262-c600193b2629": "Miami/Yacht",
+    "ee67660e-4bd6-4743-9163-40331056f690": "Miami/Yacht (Showdown)",
+    "107100ca-f910-49a9-ac13-59d0bb5691a4": "Colombia",
+    "aab7a569-cead-40b8-81b5-c1605070b366": "Colombia (Showdown)",
+    "59c15d1e-c65e-4394-9906-46cdeb944c64": "Mumbai",
+    "0d2a243a-f140-4be5-bfe7-e151878ec88e": "Mumbai (Showdown)",
+    "dac2d6fd-4f25-4a63-b338-aef458c05a7f": "Whittleton Creek",
+    "6efd360a-5f78-44ac-9823-df077018c2b3": "Whittleton Creek (Showdown)",
+    "37be638c-4265-4622-9326-8835b8535180": "Isle of Sgàil",
+    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": "Isle of Sgàil (Showdown)",
+    "be4714d4-c7a5-4c21-a63a-89c5643965e7": "New York",
+    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": "New York (Showdown)",
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44": "Hantu Port",
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117": "Hantu Port (Showdown)",
+    "f075fbc3-79ef-4e42-9326-9572f712a298": "Haven Island",
+    "d2419fe4-ea72-4e61-b91b-bb39706f551d": "Haven Island (Showdown)",
     "84727ec8-7f13-4c00-94c1-b5c60a8a181f": "Dubai",
     "cd1c3479-e3e4-42c3-a9a4-bfedd2ea31f9": "Dubai (Showdown)",
     "d84fb174-2cbb-4337-8a66-f13f9fb170cd": "Dartmoor",
-    "0ffe44ea-d241-49ec-835c-74d5714db343": "Berlin",
-    "be4714d4-c7a5-4c21-a63a-89c5643965e7": "New York",
-    "f075fbc3-79ef-4e42-9326-9572f712a298": "Haven Island",
-    "59c15d1e-c65e-4394-9906-46cdeb944c64": "Mumbai",
-    "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": "Chongqing",
-    "dac2d6fd-4f25-4a63-b338-aef458c05a7f": "Whittleton Creek",
-    "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5": "Hawke's Bay",
-    "4a34f12a-ab98-4dc5-9262-c600193b2629": "Miami/Yacht",
-    "37be638c-4265-4622-9326-8835b8535180": "Isle of Sgàil",
-    "ff0264f0-c9b8-476f-b8f2-a5762d077a09": "Marrakesh",
-    "89500fa3-2466-4c52-8b90-9890cc5039ee": "Mendoza",
-    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": "Ambrose Island (Showdown)",
-    "65659b19-fb1a-4a14-b074-65227ffac128": "Hokkaido (Showdown)",
-    "c945b720-12c4-4f62-8026-4b4011a67dff": "Paris (Showdown)",
-    "2f562dba-2b14-42f3-b9fb-eb72e79450ba": "Bangkok (Showdown)",
-    "aab7a569-cead-40b8-81b5-c1605070b366": "Colombia (Showdown)",
-    "4a95baa5-6ad6-43c8-ae3e-be8449d578ec": "Colorado (Showdown)",
-    "47d10233-0008-4f34-abd2-a84ca2bb7530": "Sapienza (Showdown)",
     "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430": "Dartmoor (Showdown)",
+    "0ffe44ea-d241-49ec-835c-74d5714db343": "Berlin",
     "c147e93f-2fa6-4618-a84e-d929c5d3d391": "Berlin (Showdown)",
-    "a3aab02b-be9a-4f97-8ddb-80843dceb3c4": "New York (Showdown)",
-    "d2419fe4-ea72-4e61-b91b-bb39706f551d": "Haven Island (Showdown)",
-    "0d2a243a-f140-4be5-bfe7-e151878ec88e": "Mumbai (Showdown)",
+    "4d9b38ab-5ea8-4bc3-8fbe-273a36c72731": "Chongqing",
     "5162c4a1-4b07-43b1-82ad-37c9e350764c": "Chongqing (Showdown)",
-    "6efd360a-5f78-44ac-9823-df077018c2b3": "Whittleton Creek (Showdown)",
-    "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd": "Hawke's Bay (Showdown)",
-    "ee67660e-4bd6-4743-9163-40331056f690": "Miami/Yacht (Showdown)",
-    "aa6447f6-7566-4e54-b1c9-15fa3d4acb39": "Isle of Sgàil (Showdown)",
-    "2f5db1a8-dfcb-4b2a-9c5a-bd80fec93026": "Marrakesh (Showdown)",
+    "89500fa3-2466-4c52-8b90-9890cc5039ee": "Mendoza",
     "8caa8f0e-ac39-4088-95c1-42075afe8213": "Mendoza (Showdown)",
-    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44": "Hantu Port",
-    "c2227b36-db89-4e79-bb1b-daf24a4b7117": "Hantu Port (Showdown)",
-    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a": "Sierra Cantante",
-    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5": "Sierra Cantante (Showdown)",
     "f128650c-96db-4a55-ab28-95bc2983687e": "Carpathian Mountains",
-    "be9e444d-f58c-4c45-8d33-745dce403ef2": "Carpathian Mountains (Showdown)"
+    "be9e444d-f58c-4c45-8d33-745dce403ef2": "Carpathian Mountains (Showdown)",
+    "060a48f0-117b-4b22-a165-111fd4a5b745": "Ambrose Island",
+    "3e72588a-46ea-4cb8-a10f-e2242ca8cc99": "Ambrose Island (Showdown)"
 };
 
 export const brickToName = {
@@ -215,12 +216,6 @@ export const brickToName = {
 };
 
 export const brickToVersion = {
-    "47d10233-0008-4f34-abd2-a84ca2bb7530|assembly:/_pro/scenes/missions/coastaltown/mission_hot_icon.brick": 1.10,
-    "d84fb174-2cbb-4337-8a66-f13f9fb170cd|assembly:/_pro/scenes/missions/ancestral/mild_filur.brick": 1.12,
-    "d84fb174-2cbb-4337-8a66-f13f9fb170cd|assembly:/_pro/scenes/missions/ancestral/mild_filur_outbreak.brick": 1.12,
-    "dec0ed42-41bf-4ff0-bc0a-08d73b3e7430|assembly:/_pro/scenes/missions/ancestral/hot_filur.brick": 1.12,
-    "f075fbc3-79ef-4e42-9326-9572f712a298|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_mild.brick": 1.13,
-    "d2419fe4-ea72-4e61-b91b-bb39706f551d|assembly:/_pro/scenes/missions/opulent/mission_stingray/greentini_sunset_hot.brick": 1.13,
     "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu.brick": 2.0,
     "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_mild_hantu_night.brick": 2.0,
     "c2227b36-db89-4e79-bb1b-daf24a4b7117|assembly:/_pro/scenes/missions/salty/mission_seagull/mission_hot_hantu.brick": 2.0,
@@ -299,6 +294,9 @@ export const brickToImage = {
 };
 
 export const displayOrder = [
+    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a",
+    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5",
+    
     "ebb8cdab-e521-4ba8-9288-d697b1aaaba7",
     "c945b720-12c4-4f62-8026-4b4011a67dff",
 
@@ -320,15 +318,6 @@ export const displayOrder = [
     "5e2d2784-1fb0-4006-8e0b-d7d907bae1b5",
     "bdda4dc3-6af8-44b6-b4ca-09de1b5cb6fd",
 
-    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44",
-    "c2227b36-db89-4e79-bb1b-daf24a4b7117",
-
-    "2aacb6cd-3b8f-44e8-aacb-1d323e1e485a",
-    "c8c4d3b1-a9e5-40dc-a948-7e364d787ff5",
-
-    "f128650c-96db-4a55-ab28-95bc2983687e",
-    "be9e444d-f58c-4c45-8d33-745dce403ef2",
-
     "4a34f12a-ab98-4dc5-9262-c600193b2629",
     "ee67660e-4bd6-4743-9163-40331056f690",
 
@@ -343,6 +332,9 @@ export const displayOrder = [
 
     "37be638c-4265-4622-9326-8835b8535180",
     "aa6447f6-7566-4e54-b1c9-15fa3d4acb39",
+
+    "79afb4a5-bb4e-4dd4-a53e-d63b366e6c44",
+    "c2227b36-db89-4e79-bb1b-daf24a4b7117",
 
     "be4714d4-c7a5-4c21-a63a-89c5643965e7",
     "a3aab02b-be9a-4f97-8ddb-80843dceb3c4",
@@ -364,6 +356,9 @@ export const displayOrder = [
 
     "89500fa3-2466-4c52-8b90-9890cc5039ee",
     "8caa8f0e-ac39-4088-95c1-42075afe8213",
+
+    "f128650c-96db-4a55-ab28-95bc2983687e",
+    "be9e444d-f58c-4c45-8d33-745dce403ef2",
 
     "060a48f0-117b-4b22-a165-111fd4a5b745",
     "3e72588a-46ea-4cb8-a10f-e2242ca8cc99"
